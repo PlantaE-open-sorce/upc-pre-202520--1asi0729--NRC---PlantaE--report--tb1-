@@ -151,11 +151,32 @@
 ---
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
+PlantaE es una aplicación web enfocada en el cuidado y gestión de cultivos urbanos mediante un sistema de monitoreo inteligente basado en IoT. La plataforma recopila y procesa datos en tiempo real desde sensores instalados en macetas o áreas de cultivo, midiendo humedad del suelo, temperatura, luminosidad y calidad del aire.
+
+De esta manera, los usuarios pueden supervisar sus plantas desde cualquier lugar, recibir notificaciones oportunas y acceder a recomendaciones personalizadas para optimizar el riego y cuidado de sus cultivos.
+
+El modelo de negocio se dirige tanto a personas individuales como a viveros comerciales que buscan soluciones sostenibles y eficientes para mantener áreas verdes saludables.
+
+### Misión:
+Digitalizar y optimizar el cuidado de cultivos urbanos mediante el uso de tecnologías IoT, ofreciendo a personas y viveros herramientas accesibles para gestionar sus plantas de forma sostenible, eficiente y consciente con el medio ambiente.
+
+### Visión:
+Ser una referencia en soluciones tecnológicas para el cuidado de plantas y áreas verdes, promoviendo un estilo de vida más sostenible y acercando la tecnología al servicio del bienestar ambiental y de las comunidades.
+
+
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+En el Perú, el cuidado de áreas verdes y la agricultura enfrentan serias dificultades relacionadas con el uso eficiente de recursos, especialmente del agua. Según la Autoridad Nacional del Agua (ANA, 2023), más del 70% del recurso hídrico del país es destinado a la agricultura, pero gran parte se desperdicia debido a sistemas de riego poco eficientes y falta de tecnología de monitoreo.
+
+En las ciudades, la situación no es distinta. Informes de la Municipalidad de Lima (2022) señalan que gran parte de los parques y jardines públicos presentan un riego deficiente, lo que repercute en el deterioro de áreas verdes urbanas. A nivel de hogares, el cuidado de plantas suele hacerse de manera intuitiva, sin datos precisos sobre humedad, temperatura o condiciones ambientales, lo que incrementa el riesgo de pérdida de cultivos o desperdicio de agua.
+
+A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agricultura urbana y periurbana en países en desarrollo, no solo como fuente de alimentos, sino también como estrategia de sostenibilidad ambiental y de bienestar social. Sin embargo, en el Perú, aún existe un vacío en el acceso a soluciones tecnológicas accesibles que faciliten la gestión eficiente de cultivos urbanos y viveros.
+
+
+
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
