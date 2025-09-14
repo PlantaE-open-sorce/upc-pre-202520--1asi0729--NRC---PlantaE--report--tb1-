@@ -163,9 +163,23 @@ Digitalizar y optimizar el cuidado de cultivos urbanos mediante el uso de tecnol
 ### Visión:
 Ser una referencia en soluciones tecnológicas para el cuidado de plantas y áreas verdes, promoviendo un estilo de vida más sostenible y acercando la tecnología al servicio del bienestar ambiental y de las comunidades.
 
-
 ### 1.1.1. Descripción de la Startup
+Somos EcoTech, una startup universitaria conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), dedicada a desarrollar soluciones tecnológicas que promuevan la sostenibilidad y el cuidado responsable de los recursos naturales. En un contexto donde la agricultura urbana y el mantenimiento de áreas verdes enfrentan retos de eficiencia y gestiones, presentamos PlantaE, una plataforma inteligente basada en IoT que permite a los usuarios monitorear y optimizar el cuidado de sus plantas y cultivos urbanos.
+
+PlantaE surge ante la creciente necesidad de contar con herramientas accesibles y confiables que faciliten el riego eficiente y el cuidado de áreas verdes en hogares y viveros. La aplicación recopila datos en tiempo real sobre humedad, temperatura, luminosidad y calidad del aire mediante sensores instalados en macetas o terrenos de cultivo, brindando a los usuarios notificaciones oportunas y recomendaciones personalizadas para garantizar la salud de sus plantas. Ademas de, contribuir al uso responsable del agua, ofreciendo una plataforma que combina tecnología, sostenibilidad y facilidad de uso. Con PlantaE, buscamos acercar la innovación al bienestar ambiental y a la vida diaria de las personas, fomentando comunidades más conscientes y responsables con su entorno.
+
 ### 1.1.2. Perfiles de integrantes del equipo
+<div align="center">
+
+| Foto | Nombre | Descripción |
+|------|--------|-------------|
+|  | **Antonio Jhair Navarro Chinga** | (Descripción)... |
+|  | **Elizabeth Noelia Apaza Bocanegra** | (Descripción)... |
+|  | **Flor De María Contreras Leon** | (Descripción)... |
+|  | **Julio Adolfo Guillen Galindo** | (Descripción)... |
+|  | **Rodrigo Jesus Miraval Pomalaya** | (Descripción)... |
+
+</div>
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
