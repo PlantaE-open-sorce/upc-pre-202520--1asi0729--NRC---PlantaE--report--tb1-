@@ -173,11 +173,11 @@ PlantaE surge ante la creciente necesidad de contar con herramientas accesibles 
 
 | Foto | Nombre | Descripción |
 |------|--------|-------------|
-|  | **Antonio Jhair Navarro Chinga** | (Descripción)... |
-|  | **Elizabeth Noelia Apaza Bocanegra** | (Descripción)... |
-|  | **Flor De María Contreras Leon** | (Descripción)... |
-|  | **Julio Adolfo Guillen Galindo** | (Descripción)... |
-|  | **Rodrigo Jesus Miraval Pomalaya** | (Descripción)... |
+|      |   **Antonio Jhair Navarro Chinga**   | (Descripción)... |
+|      | **Elizabeth Noelia Apaza Bocanegra** | (Descripción)... |
+|      |   **Flor De María Contreras Leon**   | (Descripción)... |
+|      |   **Julio Adolfo Guillen Galindo**   | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y                                                     Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
+|      |   **Rodrigo Jesus Miraval Pomalaya** | (Descripción)... |
 
 </div>
 
@@ -193,13 +193,13 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 
 | **Pregunta** | **Respuesta** |
 |:-----:|:-----:|
-|**What (¿Qué sucede?)**|En el Perú y muchas ciudades de Latinoamérica, el cuidado de cultivos urbanos y áreas verdes enfrenta retos significativos por la falta de tecnologías que permitan un monitoreo preciso. Gran parte de los usuarios riegan de manera intuitiva, sin información confiable sobre humedad del suelo, temperatura, luminosidad o calidad del aire. Esto genera pérdidas de plantas, uso ineficiente del agua y deterioro de jardines urbanos y viveros.|
-|**Why (¿Por qué es importante?)**|El uso eficiente del agua y la sostenibilidad ambiental son prioritarios. Según la Autoridad Nacional del Agua (ANA, 2023), más del 70% del recurso hídrico del país se destina a la agricultura, con altos niveles de desperdicio. Una solución tecnológica que permita recopilar datos en tiempo real, enviar alertas y recomendaciones personalizadas no solo optimiza el cuidado de las plantas, sino que también fomenta la conciencia ambiental y contribuye a la gestión responsable de los recursos naturales en un contexto urbano y doméstico.|
-|**Who (¿Quiénes son los afectados?)**|Los principales afectados son las personas en hogares que buscan mantener sus plantas en zonas urbanas. Además, viveros y negocios de jardinería que requieren eficiencia para reducir costos y mejorar la calidad de sus productos.|
-|**Where (¿Dónde sucede?)**|Este problema se presenta principalmente en ciudades con creciente interés en agricultura urbana, como Lima, Áncash o Ica. En las zonas costeras, la necesidad es mayor debido a la escasez de agua y a la poca adopción de tecnologías digitales en el mantenimiento de áreas verdes.|
-|**When (¿Cuándo sucede?)**|La problemática ocurre todo el año, pero se intensifica en temporadas de sequía, verano o en situaciones donde el usuario está fuera de casa por mucho tiempo. La falta de monitoreo en tiempo real y de datos confiables hace que la pérdida de cultivos o el mal uso del agua se convierta en un problema recurrente y continuo.|
-|**How (¿Cómo se hará?)**|El problema se resolverá mediante la implementación de una plataforma web inteligente con dispositivos IoT, que tendrá las siguientes funcionalidades:<br><br>- Sensores que recopilan datos sobre humedad, temperatura, luminosidad y calidad del aire.<br>- Panel de monitoreo en tiempo real accesible desde cualquier dispositivo móvil o web.<br>- Notificaciones y alertas para riego o cuidado específico según las condiciones detectadas.<br>- Recomendaciones personalizadas para optimizar recursos y mejorar la salud de las plantas.<br>- Estadísticas históricas y reportes para identificar patrones en el crecimiento y cuidado.<br>- Interfaz amigable para usuarios individuales y módulos adaptados a viveros o instituciones.|
-|**How much (¿Cuánto costará?)**|El costo estimado del proyecto PlantaE en su fase inicial se divide en los siguientes rubros:<br><br>- Desarrollo de la plataforma web (frontend y backend): $12,000 – $16,000 USD<br>- Sensores IoT y kits de monitoreo (hardware + calibración): $20 – $50 USD por unidad<br>- Infraestructura en la nube y mantenimiento de servidores: $100 – $300 USD mensuales<br>- Equipo técnico y de diseño: $4,000 – $8,000 USD mensuales<br>- Marketing y difusión inicial en viveros y hogares urbanos: $2,000 – $4,000 USD<br>- Soporte a usuarios: $1,000 – $2,000 USD|
+|**What** <br> ¿Cuál es el problema?  |  En el Perú, el cuidado de cultivos urbanos y áreas verdes enfrenta retos significativos por la falta de tecnologías que permitan un monitoreo preciso. Gran parte de los usuarios riegan de manera intuitiva, sin información confiable sobre humedad del suelo, temperatura, luminosidad o calidad del aire. Esto genera pérdidas de plantas, uso ineficiente del agua y deterioro de jardines urbanos y viveros.|
+|**When** <br> ¿Cuándo sucede el problema?  |  La problemática ocurre todo el año, pero se intensifica en temporadas de sequía, verano o en situaciones donde el usuario está fuera de casa por mucho tiempo. La falta de monitoreo en tiempo real y de datos confiables hace que la pérdida de cultivos o el mal uso del agua se convierta en un problema recurrente y continuo.|
+|**Where** <br> ¿Dónde se presenta el problema de negocio?  |  Este problema se presenta principalmente en ciudades con creciente interés en agricultura urbana. En las zonas costeras, la necesidad es mayor debido a la escasez de agua y a la poca adopción de tecnologías digitales en el mantenimiento de áreas verdes.|
+|**Who** <br> ¿Quiénes están involucrados?  |  Los principales afectados son las personas en hogares que buscan mantener sus plantas en zonas urbanas, así como viveros y negocios de jardinería que requieren eficiencia para reducir costos y mejorar la calidad de sus productos.|
+|**Why** <br> ¿Por qué se origina el problema?  |  El uso eficiente del agua y la sostenibilidad ambiental son prioritarios. Según la Autoridad Nacional del Agua (ANA, 2023), más del 70% del recurso hídrico del país se destina a la agricultura, con altos niveles de desperdicio. Una solución tecnológica que permita recopilar datos en tiempo real, enviar alertas y recomendaciones personalizadas no solo optimiza el cuidado de las plantas, sino que también fomenta la conciencia ambiental y contribuye a la gestión responsable de los recursos naturales en un contexto urbano y doméstico.|
+|**How** <br> ¿Cómo afecta este problema a las personas involucradas?  |  La falta de monitoreo confiable provoca que los usuarios rieguen de manera insuficiente, lo que genera pérdida de plantas, frustración y mayores costos en el mantenimiento de áreas verdes. Y por consiguiente, repercute directamente en la calidad de los productos que ofrecen.|
+|**How much** <br> ¿Cuánto impacto genera el problema en la sociedad?  |  Aunque el impacto económico es considerable, el uso ineficiente del agua contribuye al agotamiento de un recurso escaso en zonas urbanas, mientras que la pérdida de áreas verdes reduce la calidad de vida y el bienestar en las ciudades. En conjunto, esto repercute en la sostenibilidad urbana y en la gestión responsable de los recursos naturales.|
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
