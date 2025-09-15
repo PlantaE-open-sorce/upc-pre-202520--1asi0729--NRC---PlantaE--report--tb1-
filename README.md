@@ -26,11 +26,11 @@
 
 | <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
 |:-------------------------------------------:|:-------------------------------------------:|
-|       Antonio Jhair Navarro Chinga          |            u202314101                       |
-|       Elizabeth Noelia Apaza Bocanegra      |            u20231c197                       |
-|       Flor De María Contreras Leon          |            u202323243                       |
-|       Julio Adolfo Guillen Galindo          |            u20241a352                       |
-|       Rodrigo Jesus Miraval Pomalaya        |            u2023110821                      |
+|       Apaza Bocanegra, Elizabeth Noelia     |            u20231c197                       |
+|       Contreras Leon, Flor De María         |            u202323243                       |
+|       Guillen Galindo, Julio Adolfo         |            u20241a352                       |
+|       Miraval Pomalaya, Rodrigo Jesus       |            u2023110821                      |
+|       Navarro Chinga, Antonio Jhair         |            u202314101                       |
 
 </div>
 
@@ -46,12 +46,12 @@
 <div align="center">
 
 | Versión | Fecha       | Autor(es)                                                                 | Descripción de modificación |
-|---------|-------------|---------------------------------------------------------------------------|------------------------------|
-|   TB1   | XX/09/2025  | Antonio Jhair Navarro Chinga                                              | Realicé ... |
-|   TB1   | XX/09/2025  | Elizabeth Noelia Apaza Bocanegra                                          | Realicé ... |
-|   TB1   | XX/09/2025  | Flor De María Contreras Leon                                              | Realicé ... |
-|   TB1   | XX/09/2025  | Julio Adolfo Guillen Galindo                                              | Realicé ... |
-|   TB1   | XX/09/2025  | Rodrigo Jesus Miraval Pomalaya                                            | Realicé ... |
+|---------|-------------|---------------------------------------------------------------------------|-----------------------------|
+|   TB1   | XX/09/2025  | Apaza Bocanegra, Elizabeth Noelia                                         |   Realicé ...               |
+|   TB1   | XX/09/2025  | Contreras Leon, Flor De María                                             |   Realicé ...               |
+|   TB1   | XX/09/2025  | Guillen Galindo, Julio Adolfo                                             |   Realicé ...               |
+|   TB1   | XX/09/2025  | Miraval Pomalaya, Rodrigo Jesus                                           |   Realicé ...               |
+|   TB1   | XX/09/2025  | Navarro Chinga, Antonio Jhair                                             |   Realicé ...               |
 
 </div>
 
@@ -171,13 +171,49 @@ PlantaE surge ante la creciente necesidad de contar con herramientas accesibles 
 ### 1.1.2. Perfiles de integrantes del equipo
 <div align="center">
 
-| Foto | Nombre | Descripción |
-|------|--------|-------------|
-|      |   **Antonio Jhair Navarro Chinga**   | (Descripción)... |
-|      | **Elizabeth Noelia Apaza Bocanegra** | (Descripción)... |
-|      |   **Flor De María Contreras Leon**   | (Descripción)... |
-|      |   **Julio Adolfo Guillen Galindo**   | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y                                                     Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
-|      |   **Rodrigo Jesus Miraval Pomalaya** | (Descripción)... |
+| **Integrante**            | **Apaza Bocanegra, Elizabeth Noelia**                                               |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** |                                                                                     |
+| **Carrera**               |                                                                                     |
+| **Descripción**           |                                                                                     |
+| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
+
+---
+
+| **Integrante**            | **Contreras Leon, Flor De María**                                                   |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** |                                                                                     |
+| **Carrera**               |                                                                                     |
+| **Descripción**           |                                                                                     |
+| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
+
+---
+
+| **Integrante**            | **Guillen Galindo, Julio Adolfo**                                                   |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** | u20241a352                                                                          |
+| **Carrera**               | Ingeniería de Software                                                              |
+| **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
+| **Foto**                  | <img src="assets/chapter01/julio_logo.jpg" alt="Julio" width="200" height="200">    |
+
+---
+
+| **Integrante**            | **Miraval Pomalaya, Rodrigo Jesus**                                                 |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** |                                                                                     |
+| **Carrera**               |                                                                                     |
+| **Descripción**           |                                                                                     |
+| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
+
+
+---
+
+| **Integrante**            | **Navarro Chinga, Antonio Jhair**                                                   |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** |                                                                                     |
+| **Carrera**               |                                                                                     |
+| **Descripción**           |                                                                                     |
+| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
 
 </div>
 
