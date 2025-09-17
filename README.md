@@ -179,7 +179,7 @@ PlantaE surge ante la creciente necesidad de contar con herramientas accesibles 
 | **Código del Estudiante** |  u202323243                                                                       |
 | **Carrera**               |  Ingenieria de Software                                                                                   |
 | **Descripción**           |  Mi nombre es Flor de María Contreras León y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida y dedicada a mi formación profesional.Me apasiona la programación y la investigación, áreas en las que busco seguir aprendiendo y desarrollando nuevas habilidades. Aunque me considero una persona callada, siempre estoy atenta a los detalles, lo que me permite trabajar de manera cuidadosa y eficiente en mis proyectos. Asimismo, valoro el trabajo en equipo y creo que un entorno colaborativo y respetuoso es clave para alcanzar los mejores resultados.                                                                                   |
-| **Foto**                  |  <img src="assets/profiles/Flor_logo.jpeg" alt="Flor" width="200" height="200">                                       |
+| **Foto**                  |  <img src="assets/profiles/Flor_logo.jpeg" alt="Flor" width="200" height="200">                                      |
 
 ---
 
