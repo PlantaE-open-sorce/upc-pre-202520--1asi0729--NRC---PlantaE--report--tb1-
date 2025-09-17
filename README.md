@@ -268,6 +268,16 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+- Segmento objetivo 1:
+<div align="center">
+  <img src="assets/resources/user-journey-mapping-user1.png">
+</div>
+
+- Segmento objetivo 2:
+<div align="center">
+ <img src="assets/resources/user-journey-mapping-user2.png">
+</div>
+
 ### 2.3.4. Empathy Mapping
 
 ## 2.4. Big Picture Event Storming
