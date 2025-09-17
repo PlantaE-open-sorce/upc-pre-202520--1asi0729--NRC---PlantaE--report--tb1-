@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img style="height: 200px" src="assets/chapter01/upc.png">
+  <img style="height: 200px" src="assets/logos/upc.png">
 </h2>
 
 <h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
@@ -188,7 +188,7 @@ PlantaE surge ante la creciente necesidad de contar con herramientas accesibles 
 | **Código del Estudiante** | u20241a352                                                                          |
 | **Carrera**               | Ingeniería de Software                                                              |
 | **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
-| **Foto**                  | <img src="assets/chapter01/julio_logo.jpg" alt="Julio" width="200" height="200">    |
+| **Foto**                  | <img src="assets/profiles/julio_logo.jpg" alt="Julio" width="200" height="200">    |
 
 ---
 
