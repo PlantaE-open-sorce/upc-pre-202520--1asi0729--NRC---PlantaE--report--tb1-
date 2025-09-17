@@ -279,6 +279,15 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 </div>
 
 ### 2.3.4. Empathy Mapping
+- Segmento objetivo 1:
+<div align="center">
+  <img src="assets/resources/empathy-mapping-user1.png">
+</div>
+
+- Segmento objetivo 2:
+<div align="center">
+ <img src="assets/resources/empathy-mapping-user2.png">
+</div>
 
 ## 2.4. Big Picture Event Storming
 
