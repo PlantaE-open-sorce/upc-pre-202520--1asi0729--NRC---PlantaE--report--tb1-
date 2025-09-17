@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="logo-upc" width="200px" height="200px" align="center">
+  <img style="height: 200px" src="assets/chapter01/upc.png">
 </h2>
 
 <h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
@@ -7,9 +7,9 @@
 <h3 align="center">
   Ingeniería de Software
   <br><br>
-  Curso: 
+  Curso: Desarrollo de Aplicaciones Open Source
   <br><br>
-  Sección: 
+  Sección: 7380
   <br><br>
   Profesor: Hugo Allan Mori Paiva
   <br><br>
@@ -17,14 +17,14 @@
   <br><br>
   Informe del Trabajo Final
   <br><br>
-  Startup: PlantaE
+  Startup: 
   <br><br>
-  Producto: 
+  Producto: PlantaE
 </h3>
 
 <div align="center">
 
-| <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
+| <div style="width:300px">Alumno</div>       | <div style="width:125px">Código</div>       |
 |:-------------------------------------------:|:-------------------------------------------:|
 |       Apaza Bocanegra, Elizabeth Noelia     |            u20231c197                       |
 |       Contreras Leon, Flor De María         |            u202323243                       |
@@ -41,17 +41,11 @@
 <div style="page-break-after: always;"></div>
 
 # Registro de Versiones del Informe  
----
-
 <div align="center">
 
-| Versión | Fecha       | Autor(es)                                                                 | Descripción de modificación |
-|---------|-------------|---------------------------------------------------------------------------|-----------------------------|
-|   TB1   | XX/09/2025  | Apaza Bocanegra, Elizabeth Noelia                                         |   Realicé ...               |
-|   TB1   | XX/09/2025  | Contreras Leon, Flor De María                                             |   Realicé ...               |
-|   TB1   | XX/09/2025  | Guillen Galindo, Julio Adolfo                                             |   Realicé ...               |
-|   TB1   | XX/09/2025  | Miraval Pomalaya, Rodrigo Jesus                                           |   Realicé ...               |
-|   TB1   | XX/09/2025  | Navarro Chinga, Antonio Jhair                                             |   Realicé ...               |
+| Versión | Fecha       | Autor(es)                            | Descripción de modificación                             |
+|---------|-------------|--------------------------------------|---------------------------------------------------------|
+|   0.1   | 12/09/2025  | Apaza Bocanegra, Elizabeth Noelia    |  Elaboración de la estructura inicial del reporte.      |
 
 </div>
 
@@ -227,15 +221,15 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 
 **Análisis 5W2H**
 
-| **Pregunta** | **Respuesta** |
-|:-----:|:-----:|
-|**What** <br> ¿Cuál es el problema?  |  En el Perú, el cuidado de cultivos urbanos y áreas verdes enfrenta retos significativos por la falta de tecnologías que permitan un monitoreo preciso. Gran parte de los usuarios riegan de manera intuitiva, sin información confiable sobre humedad del suelo, temperatura, luminosidad o calidad del aire. Esto genera pérdidas de plantas, uso ineficiente del agua y deterioro de jardines urbanos y viveros.|
-|**When** <br> ¿Cuándo sucede el problema?  |  La problemática ocurre todo el año, pero se intensifica en temporadas de sequía, verano o en situaciones donde el usuario está fuera de casa por mucho tiempo. La falta de monitoreo en tiempo real y de datos confiables hace que la pérdida de cultivos o el mal uso del agua se convierta en un problema recurrente y continuo.|
-|**Where** <br> ¿Dónde se presenta el problema de negocio?  |  Este problema se presenta principalmente en ciudades con creciente interés en agricultura urbana. En las zonas costeras, la necesidad es mayor debido a la escasez de agua y a la poca adopción de tecnologías digitales en el mantenimiento de áreas verdes.|
-|**Who** <br> ¿Quiénes están involucrados?  |  Los principales afectados son las personas en hogares que buscan mantener sus plantas en zonas urbanas, así como viveros y negocios de jardinería que requieren eficiencia para reducir costos y mejorar la calidad de sus productos.|
-|**Why** <br> ¿Por qué se origina el problema?  |  El uso eficiente del agua y la sostenibilidad ambiental son prioritarios. Según la Autoridad Nacional del Agua (ANA, 2023), más del 70% del recurso hídrico del país se destina a la agricultura, con altos niveles de desperdicio. Una solución tecnológica que permita recopilar datos en tiempo real, enviar alertas y recomendaciones personalizadas no solo optimiza el cuidado de las plantas, sino que también fomenta la conciencia ambiental y contribuye a la gestión responsable de los recursos naturales en un contexto urbano y doméstico.|
-|**How** <br> ¿Cómo afecta este problema a las personas involucradas?  |  La falta de monitoreo confiable provoca que los usuarios rieguen de manera insuficiente, lo que genera pérdida de plantas, frustración y mayores costos en el mantenimiento de áreas verdes. Y por consiguiente, repercute directamente en la calidad de los productos que ofrecen.|
-|**How much** <br> ¿Cuánto impacto genera el problema en la sociedad?  |  Aunque el impacto económico es considerable, el uso ineficiente del agua contribuye al agotamiento de un recurso escaso en zonas urbanas, mientras que la pérdida de áreas verdes reduce la calidad de vida y el bienestar en las ciudades. En conjunto, esto repercute en la sostenibilidad urbana y en la gestión responsable de los recursos naturales.|
+| **Pregunta**                                                         | **Respuesta**                                                                                                                                                                                      |
+|:--------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|**What** <br> ¿Cuál es el problema?                                   |  En el Perú, el cuidado de cultivos urbanos y áreas verdes enfrenta retos significativos por la falta de tecnologías que permitan un monitoreo preciso. Gran parte de los usuarios riegan de manera intuitiva, sin información confiable sobre humedad del suelo, temperatura, luminosidad o calidad del aire. Esto genera pérdidas de plantas, uso ineficiente del agua y deterioro de jardines urbanos y viveros.                                                             |
+|**When** <br> ¿Cuándo sucede el problema?                             |  La problemática ocurre todo el año, pero se intensifica en temporadas de sequía, verano o en situaciones donde el usuario está fuera de casa por mucho tiempo. La falta de monitoreo en tiempo real y de datos confiables hace que la pérdida de cultivos o el mal uso del agua se convierta en un problema recurrente y continuo.                                                                                                                                              |
+|**Where** <br> ¿Dónde se presenta el problema de negocio?             |  Este problema se presenta principalmente en ciudades con creciente interés en agricultura urbana. En las zonas costeras, la necesidad es mayor debido a la escasez de agua y a la poca adopción de tecnologías digitales en el mantenimiento de áreas verdes.                                                                                                                                                                                                                  |
+|**Who** <br> ¿Quiénes están involucrados?                             |  Los principales afectados son las personas en hogares que buscan mantener sus plantas en zonas urbanas, así como viveros y negocios de jardinería que requieren eficiencia para reducir costos y mejorar la calidad de sus productos.                                                                                                                                                                                                                                        |
+|**Why** <br> ¿Por qué se origina el problema?                         |  El uso eficiente del agua y la sostenibilidad ambiental son prioritarios. Según la Autoridad Nacional del Agua (ANA, 2023), más del 70% del recurso hídrico del país se destina a la agricultura, con altos niveles de desperdicio. Una solución tecnológica que permita recopilar datos en tiempo real, enviar alertas y recomendaciones personalizadas no solo optimiza el cuidado de las plantas, sino que también fomenta la conciencia ambiental y contribuye a la gestión responsable de los recursos naturales en un contexto urbano y doméstico.                                                                                                                                                                                                    |
+|**How** <br> ¿Cómo afecta este problema a las personas involucradas?  |  La falta de monitoreo confiable provoca que los usuarios rieguen de manera insuficiente, lo que genera pérdida de plantas, frustración y mayores costos en el mantenimiento de áreas verdes. Y por consiguiente, repercute directamente en la calidad de los productos que ofrecen.                                                                                                                                                                                            |
+|**How much** <br> ¿Cuánto impacto genera el problema en la sociedad?  |  Aunque el impacto económico es considerable, el uso ineficiente del agua contribuye al agotamiento de un recurso escaso en zonas urbanas, mientras que la pérdida de áreas verdes reduce la calidad de vida y el bienestar en las ciudades. En conjunto, esto repercute en la sostenibilidad urbana y en la gestión responsable de los recursos naturales.                                                                                                                      |
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
@@ -277,17 +271,28 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 ### 2.3.4. Empathy Mapping
 
 ## 2.4. Big Picture Event Storming
-## 2.5. Ubiquitous Language
 
----
+## 2.5. Ubiquitous Language
+| **Término (Inglés)**         | **Término (Español)**       | **Descripción**                                                                                              |
+|------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Soil Moisture**            | Humedad del suelo           | Cantidad de agua presente en la tierra donde crece la planta; determina la necesidad de riego.               |
+| **Air Quality**              | Calidad del aire            | Condiciones del aire que rodea al cultivo, considerando pureza y presencia de contaminantes.                 |
+| **Sunlight Exposure**        | Exposición a la luz solar   | Cantidad de luz solar o artificial que recibe la planta, fundamental para la fotosíntesis y el crecimiento.  |
+| **Plant Health**             | Salud de la planta          | Estado general de una planta basado en sus condiciones ambientales y cuidados recibidos.                     |
+| **Watering Recommendation**  | Recomendación de riego      | Sugerencia personalizada generada para optimizar el uso del agua y mantener el buen estado del cultivo.      |
+| **Alert Notification**       | Notificación de alerta      | Mensaje que informa al usuario sobre condiciones críticas que requieren acción inmediata.                    |
+| **Dashboard**                | Panel de control            | Interfaz donde el usuario visualiza en tiempo real el estado de sus cultivos y recibe notificaciones.        |
+| **Growth Stage**             | Etapa de crecimiento        | Fase de desarrollo en la que se encuentra la planta (germinación, crecimiento, floración, madurez).          |
+| **Overwatering**             | Exceso de riego             | Situación en la que la planta recibe más agua de la necesaria, lo que puede causar pudrición de raíces.      |
+| **Underwatering**            | Falta de riego              | Situación en la que la planta recibe menos agua de la necesaria, afectando su salud y crecimiento.           |
+| **Indoor Plant**             | Planta de interior          | Planta cultivada dentro de un espacio cerrado, adaptada a condiciones de luz artificial o indirecta.         |
+| **Outdoor Plant**            | Planta de exterior          | Planta cultivada en terrazas, balcones o jardines, expuesta a condiciones ambientales naturales.             |
+| **Fertilizer Use**           | Uso de fertilizantes        | Práctica de añadir nutrientes a la maceta para mejorar el crecimiento y salud de la planta.                  |
 
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
-
----
----
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
@@ -297,10 +302,50 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
-### 4.2.3. SEO Tags and Meta Tags
-### 4.2.4. Searching Systems
-### 4.2.5. Navigation Systems
 
+### 4.2.3. SEO Tags and Meta Tags
+- Landing Page:
+    - Title: PlantaE, monitoreo inteligente de cultivos urbanos con IoT.
+    - Meta Description: Supervisa tus plantas en tiempo real con sensores IoT, brindando recomendaciones de riego y cuidado personalizado para que tus cultivos urbanos crezcan saludables y sostenibles.
+    - Meta Keywords: Plantas inteligentes, cultivos urbanos, IoT, agricultura sostenible, cuidado de plantas, huertos urbanos, monitoreo ambiental.
+    - Meta Author: PlantaE Team.
+
+- Web Application:
+    - Title: PlantaE, estado de tus plantas en tiempo real.
+    - Meta Description: Gestiona tus cultivos urbanos desde un solo lugar. Visualiza humedad, temperatura, luz y calidad del aire con gráficos claros y recibe alertas personalizadas.
+    - Meta Keywords: dashboard plantas, monitoreo IoT, gestión de cultivos, agricultura urbana, cuidado de plantas en casa, viveros sostenibles.
+    - Meta Author: PlantaE Team.
+
+### 4.2.4. Searching Systems
+El sistema de búsqueda de PlantaE está diseñado para facilitar a los usuarios la localización rápida y eficiente de información sobre sus cultivos urbanos. El objetivo es evitar que el usuario se sienta perdido ante el volumen de datos provenientes de los sensores y garantizar que pueda acceder de forma intuitiva al estado de cada planta o conjunto de cultivos.
+
+- Usuarios domésticos: 
+    - Filtros dinámicos combinables:
+        - Tipo de planta.
+        - Estado de salud: Saludable, en riesgo, crítico.
+        - Variable ambiental: Humedad, temperatura, luminosidad, calidad del aire.
+        - Ubicación: Sala, balcón, terraza, huerto urbano.
+        - Nivel de cuidado requerido: Bajo, medio, alto.
+
+    - Tarjetas visuales:
+        - Imagen de la planta o ícono representativo.
+        - Nombre de la planta.
+        - Ubicación asignada.
+        - Estado actual resumido: Humedad baja, necesita riego.
+        - Indicadores visuales de color:
+            - Verde, planta saludable.
+            - Amarillo, requiere atención.
+            - Rojo, estado crítico.
+        
+- Viveros comerciales:
+    - Filtros por estado de cultivo.
+    - Filtro por variable crítica: Lotes con humedad baja, exceso de temperatura o deficiencia de luz.
+    - Búsqueda en histórico:
+        - Consultar registros por fecha.
+        - Estado previo o acciones realizadas.
+    - Iconos destacados para alertas, recomendaciones o novedades.
+  
+### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
