@@ -251,8 +251,27 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 
 #### 1.2.2.4. Lean UX Canvas
 
+
+
+| **Sección** | **Contenido** |
+|-------------|---------------|
+| **Business Problem** | Los usuarios de áreas urbanas y viveros no cuentan con datos precisos y en tiempo real sobre las condiciones de sus cultivos (humedad, temperatura, luminosidad, calidad del aire), lo que ocasiona un riego ineficiente y un mayor riesgo de pérdida de plantas. Las personas suelen regar sus plantas de manera intuitiva, lo que genera desperdicio de agua. Los viveros y responsables de áreas verdes carecen de soluciones tecnológicas accesibles y fáciles de usar que permitan optimizar el manejo de cultivos urbanos. |
+| **Business Outcomes** | - Aumentar el número de usuarios (hogares y viveros) que gestionan sus plantas basados en datos de sensores IoT.<br>- Incrementar la adopción de recomendaciones y notificaciones personalizadas dentro de la plataforma.<br>- Lograr que la mayoría de usuarios puedan utilizar la plataforma sin requerir conocimientos técnicos avanzados.<br>- Validar la disposición de pago de los usuarios al percibir beneficios tangibles en el cuidado de sus cultivos. |
+| **Users and Customers** | **Primarios:**<br>- Personas que cuidan plantas en sus hogares.<br>- Viveros comerciales que buscan optimizar el cuidado de cultivos urbanos. |
+| **User Benefits** | **Personas (hogares):**<br>- Outcomes: Regar sus plantas con base en datos y recibir alertas útiles.<br>- Benefits: Menor esfuerzo en el cuidado de sus plantas, reducción de desperdicio de agua, plantas más saludables.<br><br>**Viveros comerciales:**<br>- Outcomes: Monitorear condiciones de cultivo en tiempo real y aplicar decisiones basadas en datos.<br>- Benefits: Mayor control de sus recursos, optimización de tiempo y costos, mejora en la productividad de cultivos. |
+| **Solution Ideas** | - Plataforma conectada a sensores IoT para medir condiciones de cultivo.<br>- Sistema de notificaciones y recomendaciones personalizadas para riego eficiente.<br>- Interfaz sencilla y accesible para todo tipo de usuario.<br>- Reportes de estado y mejoras de los cultivos. |
+| **Hypotheses** | - Creemos que al ofrecer una plataforma de monitoreo en tiempo real con sensores IoT, los usuarios urbanos y viveros podrán gestionar sus plantas de manera más eficiente.<br>- Creemos que al proporcionar recomendaciones personalizadas y notificaciones oportunas, los usuarios reducirán el desperdicio de agua y mejorarán la salud de sus cultivos.<br>- Creemos que al diseñar una interfaz sencilla y accesible, lograremos que tanto usuarios individuales como viveros adopten la aplicación sin necesidad de conocimientos técnicos avanzados.<br>- Creemos que si demostramos beneficios tangibles (ahorro de agua, reducción de pérdidas de plantas), los usuarios estarán dispuestos a pagar por la solución. |
+| **What's the most important thing we need to learn first?** | ¿Los usuarios (hogares y viveros) están dispuestos a utilizar una plataforma tecnológica basada en sensores IoT para gestionar sus cultivos de manera más eficiente? |
+| **What's the least amount of work we need to do to learn the next most important thing?** | **MVP:** Prototipo funcional con sensores IoT básicos conectados a una aplicación que muestre datos de humedad y temperatura, notificaciones iniciales y recomendaciones simples. Validar si los usuarios utilizan el sistema y siguen las recomendaciones. |
+
 ## 1.3. Segmentos objetivo
 ---
+| Segmento Objetivo | Aspectos demográficos | Aspectos geográficos | Aspectos psicográficos |
+|-------------------|------------------------|-----------------------|-------------------------|
+| **Personas (hogares urbanos que cuidan plantas)** | - Sexo: Masculino y femenino.<br>- Edades: 25 – 55 años (adultos jóvenes y adultos interesados en la sostenibilidad y el cuidado del hogar). | - Nacionalidad: Peruana.<br>- Zona geográfica: Principalmente zonas urbanas y periurbanas con acceso a áreas verdes o pequeños jardines (ej. Lima Metropolitana y principales ciudades del Perú). | - Valoran la sostenibilidad y el cuidado responsable del medio ambiente.<br>- Interesados en tecnología accesible que facilite la vida cotidiana.<br>- Buscan practicidad y resultados visibles en el cuidado de sus plantas.<br>- Dispuestos a probar soluciones innovadoras si estas son fáciles de usar. |
+| **Viveros comerciales** | - Sexo: Masculino y femenino (administradores, encargados y trabajadores de viveros).<br>- Edades: 20 – 60 años (jóvenes adultos y adultos con experiencia en manejo de cultivos o gestión de negocios de plantas). | - Nacionalidad: Peruana.<br>- Zona geográfica: Áreas urbanas, periurbanas y rurales donde se concentran viveros, centros de producción y espacios agrícolas. | - Buscan optimizar recursos (agua, energía, tiempo) para aumentar la rentabilidad.<br>- Interesados en soluciones tecnológicas que mejoren la eficiencia operativa.<br>- Valoran herramientas que brinden datos confiables y prácticos para la toma de decisiones.<br>- Dispuestos a pagar por soluciones que generen beneficios tangibles en productividad y sostenibilidad. |
+
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
