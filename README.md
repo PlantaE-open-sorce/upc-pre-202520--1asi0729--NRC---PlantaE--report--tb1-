@@ -266,6 +266,12 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 
 ## 1.3. Segmentos objetivo
 ---
+| Segmento Objetivo | Aspectos demográficos | Aspectos geográficos | Aspectos psicográficos |
+|-------------------|------------------------|-----------------------|-------------------------|
+| **Personas (hogares urbanos que cuidan plantas)** | - Sexo: Masculino y femenino.<br>- Edades: 25 – 55 años (adultos jóvenes y adultos interesados en la sostenibilidad y el cuidado del hogar). | - Nacionalidad: Peruana.<br>- Zona geográfica: Principalmente zonas urbanas y periurbanas con acceso a áreas verdes o pequeños jardines (ej. Lima Metropolitana y principales ciudades del Perú). | - Valoran la sostenibilidad y el cuidado responsable del medio ambiente.<br>- Interesados en tecnología accesible que facilite la vida cotidiana.<br>- Buscan practicidad y resultados visibles en el cuidado de sus plantas.<br>- Dispuestos a probar soluciones innovadoras si estas son fáciles de usar. |
+| **Viveros comerciales** | - Sexo: Masculino y femenino (administradores, encargados y trabajadores de viveros).<br>- Edades: 20 – 60 años (jóvenes adultos y adultos con experiencia en manejo de cultivos o gestión de negocios de plantas). | - Nacionalidad: Peruana.<br>- Zona geográfica: Áreas urbanas, periurbanas y rurales donde se concentran viveros, centros de producción y espacios agrícolas. | - Buscan optimizar recursos (agua, energía, tiempo) para aumentar la rentabilidad.<br>- Interesados en soluciones tecnológicas que mejoren la eficiencia operativa.<br>- Valoran herramientas que brinden datos confiables y prácticos para la toma de decisiones.<br>- Dispuestos a pagar por soluciones que generen beneficios tangibles en productividad y sostenibilidad. |
+
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
