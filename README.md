@@ -275,6 +275,45 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
+
+En esta sección, se presenta un análisis de los principales competidores de PlantaE, centrado en aquellos que operan con modelos de negocio digitales similares o que, aunque no sean idénticos, ofrecen productos o servicios que se superponen parcialmente con nuestra propuesta.Evaluamos tanto competidores directos, que ofrecen plataformas basadas en IoT para monitoreo de cultivos y áreas verdes, como competidores indirectos, que brindan soluciones de riego automatizado o aplicaciones de agricultura urbana más generales.
+
+Este análisis nos permitirá comprender mejor el entorno competitivo y cómo podemos diferenciarnos en el ecosistema de soluciones de agricultura urbana sostenible.
+
+#### AgroSmart : 
+Es una de las startups líderes en soluciones de agricultura digital. Su plataforma combina sensores IoT, imágenes satelitales e inteligencia artificial para optimizar el manejo de grandes cultivos.
+
+**Fortalezas:** monitoreo IoT en tiempo real, predicciones climáticas y optimización avanzada del riego.
+
+**Debilidades:** está orientada a la agricultura a gran escala y requiere alta inversión, lo que limita su accesibilidad para viveros urbanos y hogares.
+
+#### Netafim:
+Es una empresa pionera en riego por goteo inteligente, con sistemas que reducen significativamente el consumo de agua en cultivos.
+
+**Fortalezas:** experiencia consolidada, sistemas de riego automatizado de alta eficiencia y sostenibilidad hídrica comprobada.
+
+**Debilidades:** alto costo de implementación y foco en agricultores medianos y grandes, con baja personalización para usuarios urbanos.
+
+
+####Plantix
+
+Es una aplicación móvil que utiliza inteligencia artificial para diagnosticar plagas y enfermedades en cultivos mediante fotos.
+
+**Fortalezas:** accesibilidad desde dispositivos móviles, comunidad activa de usuarios y recomendaciones prácticas para el cuidado de plantas.
+
+**Debilidades:** su alcance está limitado al diagnóstico de problemas y no ofrece un sistema de monitoreo IoT ni gestión hídrica.
+
+
+#### GroGuru
+
+Desarrolla soluciones IoT para la optimización del agua y fertilizantes mediante sensores de humedad del suelo y plataformas digitales.
+
+**Fortalezas:** sensores de larga duración, recomendaciones basadas en datos y plataformas robustas para visualización y análisis.
+
+**Debilidades:** orientado principalmente a la agricultura profesional, con costos elevados y mayor complejidad técnica en su implementación.
+
+
+
 ### 2.1.1. Análisis competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
