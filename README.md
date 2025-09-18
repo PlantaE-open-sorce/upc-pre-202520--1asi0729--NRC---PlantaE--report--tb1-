@@ -472,6 +472,8 @@ El sistema de búsqueda de PlantaE está diseñado para facilitar a los usuarios
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
 
+<img src="assets/resources/class_diagrams.png" alt="Diagrama Clases" width="800" height="">    
+
 ---
 
 # Capítulo V: Product Implementation, Validation & Deployment
