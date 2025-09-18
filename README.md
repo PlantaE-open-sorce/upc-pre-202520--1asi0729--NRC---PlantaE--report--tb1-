@@ -280,14 +280,14 @@ En esta sección, se presenta un análisis de los principales competidores de Pl
 
 Este análisis nos permitirá comprender mejor el entorno competitivo y cómo podemos diferenciarnos en el ecosistema de soluciones de agricultura urbana sostenible.
 
-#### AgroSmart : 
+### AgroSmart : 
 Es una de las startups líderes en soluciones de agricultura digital. Su plataforma combina sensores IoT, imágenes satelitales e inteligencia artificial para optimizar el manejo de grandes cultivos.
 
 **Fortalezas:** monitoreo IoT en tiempo real, predicciones climáticas y optimización avanzada del riego.
 
 **Debilidades:** está orientada a la agricultura a gran escala y requiere alta inversión, lo que limita su accesibilidad para viveros urbanos y hogares.
 
-#### Netafim:
+### Netafim:
 Es una empresa pionera en riego por goteo inteligente, con sistemas que reducen significativamente el consumo de agua en cultivos.
 
 **Fortalezas:** experiencia consolidada, sistemas de riego automatizado de alta eficiencia y sostenibilidad hídrica comprobada.
@@ -295,7 +295,7 @@ Es una empresa pionera en riego por goteo inteligente, con sistemas que reducen 
 **Debilidades:** alto costo de implementación y foco en agricultores medianos y grandes, con baja personalización para usuarios urbanos.
 
 
-####Plantix
+### Plantix
 
 Es una aplicación móvil que utiliza inteligencia artificial para diagnosticar plagas y enfermedades en cultivos mediante fotos.
 
@@ -304,7 +304,7 @@ Es una aplicación móvil que utiliza inteligencia artificial para diagnosticar 
 **Debilidades:** su alcance está limitado al diagnóstico de problemas y no ofrece un sistema de monitoreo IoT ni gestión hídrica.
 
 
-#### GroGuru
+### GroGuru
 
 Desarrolla soluciones IoT para la optimización del agua y fertilizantes mediante sensores de humedad del suelo y plataformas digitales.
 
