@@ -304,17 +304,34 @@ Es una aplicación móvil que utiliza inteligencia artificial para diagnosticar 
 - **Debilidades:** su alcance está limitado al diagnóstico de problemas y no ofrece un sistema de monitoreo IoT ni gestión hídrica.
 
 
-4. ### GroGuru
-
-Desarrolla soluciones IoT para la optimización del agua y fertilizantes mediante sensores de humedad del suelo y plataformas digitales.
-
-- **Fortalezas:** sensores de larga duración, recomendaciones basadas en datos y plataformas robustas para visualización y análisis.
-
-- **Debilidades:** orientado principalmente a la agricultura profesional, con costos elevados y mayor complejidad técnica en su implementación.
-
-
-
 ### 2.1.1. Análisis competitivo
+
+**Pregunta de análisis:**  
+¿Que busca comprender el analisis de PlantaE frente a competidores que ofrecen soluciones de agricultura digital e IoT, considerando factores de accesibilidad, mercado objetivo y sostenibilidad?
+
+Este análisis busca comprender el posicionamiento de PlantaE en comparación con otras soluciones digitales e IoT para la gestión de cultivos y áreas verdes, identificando oportunidades de mejora y diferenciación frente a las necesidades de nuestros segmentos objetivos: hogares urbanos interesados en el cuidado sostenible de plantas y viveros comerciales que buscan optimizar el uso de recursos y mejorar la salud de sus cultivos.
+
+| Aspecto / Startup     |  PlantaE | AgroSmart | Netafim | Plantix |
+|------------------------|------------|-----------|---------|---------|
+| **Perfil / Overview** | Plataforma accesible de monitoreo IoT en tiempo real para hogares y viveros comerciales. | Startup de agricultura digital con sensores IoT, IA y datos satelitales. | Empresa líder en riego inteligente a nivel global. | App móvil que diagnostica plagas y enfermedades con IA. |
+| **Ventaja competitiva** | Accesible, simple y adaptable a hogares y viveros comerciales. | Alta tecnología para agricultura a gran escala. | Experiencia consolidada y eficiencia hídrica. | Uso de IA accesible desde móvil y comunidad activa. |
+| **Mercado objetivo** | Hogares urbanos y viveros comerciales pequeños/medianos. | Agricultores industriales y medianos. | Agricultores medianos y grandes. | Agricultores y aficionados urbanos. |
+| **Estrategias de marketing** | Educación digital sobre sostenibilidad, alianzas con viveros locales. | Marketing B2B, posicionamiento tecnológico. | Branding global, casos de éxito y sostenibilidad hídrica. | Estrategia digital masiva vía Google Play/App Store. |
+| **Productos & Servicios** | Sensores IoT, web, recomendaciones personalizadas. | Sensores IoT, pronósticos climáticos, gestión avanzada. | Sistemas de riego por goteo inteligentes, software de gestión. | Diagnóstico de plagas y comunidad de soporte. |
+| **Precios & Costos** | Accesible, modelo freemium o suscripción baja. | Alto costo, licencias SaaS premium. | Alta inversión inicial y mantenimiento. | Gratis con servicios premium. |
+| **Canales de distribución** | Web (Probable distribucion con equipos adquiridos)| Web y App. | Equipos físicos + plataforma digital. | App móvil. 
+
+
+### SWOT Analysis
+
+| Startup     | Fortalezas                                                                 | Debilidades                                                                | Oportunidades                                                      | Amenazas                                                                 |
+|-------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------|
+|  **PlantaE**   | Accesibilidad, simplicidad de uso, enfoque en sostenibilidad urbana.      | Escala inicial limitada, baja madurez tecnológica frente a competidores.    | Creciente demanda de soluciones sostenibles, apoyo a viveros urbanos. | Entrada de grandes competidores al segmento urbano, barreras de adopción tecnológica. |
+| **AgroSmart** | Tecnología avanzada, IA y datos satelitales.                              | Costos elevados, poco enfoque en usuarios pequeños.                         | Expansión en mercados emergentes.                                   | Saturación de mercado y alta inversión necesaria para usuarios pequeños. |
+| **Netafim**   | Experiencia consolidada, reducción comprobada de consumo de agua.         | Alto costo, poca personalización para usuarios urbanos.                     | Creciente necesidad de eficiencia hídrica.                         | Nuevas startups más ágiles y accesibles.                                 |
+| **Plantix**   | Uso de IA en diagnóstico, comunidad digital activa.                       | No ofrece gestión hídrica ni monitoreo IoT.                                | Integración con soluciones de riego y monitoreo urbano.            | Dependencia de la precisión de IA y limitación del modelo freemium.      |
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas
