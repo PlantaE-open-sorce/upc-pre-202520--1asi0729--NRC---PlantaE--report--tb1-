@@ -359,8 +359,23 @@ Para enfrentar a la competencia y posicionarse de manera sólida en el ecosistem
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+Hola, mi nombre es [Nombre del entrevistador] y formo parte del equipo que está desarrollando PlantaE, una iniciativa que busca mejorar el cuidado de plantas y áreas verdes con ayuda de la tecnología. Nuestra idea es apoyarnos en el Internet de las Cosas (IoT), es decir, en sensores y dispositivos que recopilan datos en tiempo real sobre tus plantas —por ejemplo, la humedad del suelo o la cantidad de agua utilizada— para que el riego y el mantenimiento sean más fáciles y eficientes.
 
+Con esto queremos crear una aplicación que te brinde alertas, consejos y herramientas prácticas para ahorrar agua, cuidar mejor de las plantas y simplificar el proceso, ya sea en casa o en un vivero.
 **Diseño de entrevistas - Segmento 1 :**
+
+**Presentacion del proyecto y inicio de la entrevista:******
+1. Para empezar, ¿puedes contarnos tu nombre y qué relación tienes con el cuidado de plantas en tu hogar?
+
+2. ¿Cómo describirías tu experiencia con las plantas: las consideras un pasatiempo, una responsabilidad o parte de tu estilo de vida?
+
+3. ¿Qué lugar ocupan las plantas en tu día a día (ejemplo: decoración, conexión con la naturaleza, bienestar personal)?
+
+4. ¿Desde cuándo empezaste a cuidar plantas en casa y qué te motivó a hacerlo?
+
+
+------------
+
 
 1. ¿Dedicas un tiempo específico en la semana para cuidar tus plantas o lo haces de manera espontánea?
 
@@ -391,6 +406,19 @@ Para enfrentar a la competencia y posicionarse de manera sólida en el ecosistem
 
 **Diseño de entrevistas - Segmento 2 :**
 
+**Presentacion del proyecto y inicio de la entrevista:******
+
+
+1. Para comenzar, ¿puedes presentarte y contarnos tu rol dentro del vivero o negocio de plantas?
+
+3. ¿Cuál es la historia detrás del vivero? (¿Cómo empezó y qué los motivó a dedicarse a este rubro?)
+
+5. ¿Qué tanto valoras la tecnología o la innovación en el manejo de riego y mantenimiento en tu negocio?
+
+
+
+------------
+
 1. ¿Qué retos enfrenta en la gestión del riego y mantenimiento a gran escala?
 
 2. ¿Cómo manejan actualmente el control del consumo de agua?
@@ -407,7 +435,7 @@ Para enfrentar a la competencia y posicionarse de manera sólida en el ecosistem
 
 8. ¿Utilizan actualmente algún software o sistema digital para gestionar el vivero? ¿Cuál?
 
-10. ¿Qué tipo de información o métricas consideran más útiles para tomar decisiones sobre la producción y venta de plantas?
+10. ¿Qué tipo de información o métricas consideran más útiles para tomar decisiones sobre la producción y venta?
 
 11. ¿De qué forma creen que una aplicación como PlantaE podría apoyar la eficiencia y sostenibilidad en su vivero?
 
