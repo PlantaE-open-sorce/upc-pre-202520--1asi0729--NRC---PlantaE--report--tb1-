@@ -17,7 +17,7 @@
   <br><br>
   Informe del Trabajo Final
   <br><br>
-  Startup: 
+  Startup: EcoTech
   <br><br>
   Producto: PlantaE
 </h3>
@@ -141,26 +141,30 @@
 - [Anexos](#anexos)
 
 # Student Outcome  
+El curso contribuye al cumplimiento del Student Outcome ABET:
+**ABET – EAC - Student Outcome 3**
+Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
----
+|             <div align="center">Criterio específico</div>             |          <div align="center">Acciones Realizadas</div>            |          <div align="center">Conclusiones</div>            |
+|:---------------------------------------------------------------------:|-------------------------------------------------------------------|------------------------------------------------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | <li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** <br> </li><li>**Contreras Leon, Flor De María** <br> **TB1:** <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** <br> </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** <br> </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:** | <li>**TB1:** </li> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | <li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** <br> </li><li>**Contreras Leon, Flor De María** <br> **TB1:** <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** <br> </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** <br> </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:** | <li>**TB1:** </li> |
+
+<hr>
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
-PlantaE es una aplicación web enfocada en el cuidado y gestión de cultivos urbanos mediante un sistema de monitoreo inteligente basado en IoT. La plataforma recopila y procesa datos en tiempo real desde sensores instalados en macetas o áreas de cultivo, midiendo humedad del suelo, temperatura, luminosidad y calidad del aire.
+### 1.1.1. Descripción de la Startup
+Somos EcoTech, una startup universitaria conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), dedicada a desarrollar soluciones tecnológicas que promuevan la sostenibilidad y el cuidado responsable de los recursos naturales. En un contexto donde la agricultura urbana y el mantenimiento de áreas verdes enfrentan retos de eficiencia y gestiones, presentamos PlantaE, una plataforma inteligente basada en IoT que permite a los usuarios monitorear y optimizar el cuidado de sus plantas y cultivos urbanos.
 
-De esta manera, los usuarios pueden supervisar sus plantas desde cualquier lugar, recibir notificaciones oportunas y acceder a recomendaciones personalizadas para optimizar el riego y cuidado de sus cultivos.
-
-El modelo de negocio se dirige tanto a personas individuales como a viveros comerciales que buscan soluciones sostenibles y eficientes para mantener áreas verdes saludables.
+PlantaE surge ante la creciente necesidad de contar con herramientas accesibles y confiables que faciliten el riego eficiente y el cuidado de áreas verdes en hogares y viveros. La aplicación recopila datos en tiempo real sobre humedad, temperatura, luminosidad y calidad del aire mediante sensores instalados en macetas o terrenos de cultivo, brindando a los usuarios notificaciones oportunas y recomendaciones personalizadas para garantizar la salud de sus plantas. Ademas de, contribuir al uso responsable del agua, ofreciendo una plataforma que combina tecnología, sostenibilidad y facilidad de uso. Con PlantaE, buscamos acercar la innovación al bienestar ambiental y a la vida diaria de las personas, fomentando comunidades más conscientes y responsables con su entorno.
 
 ### Misión:
 Digitalizar y optimizar el cuidado de cultivos urbanos mediante el uso de tecnologías IoT, ofreciendo a personas y viveros herramientas accesibles para gestionar sus plantas de forma sostenible, eficiente y consciente con el medio ambiente.
 
 ### Visión:
 Ser una referencia en soluciones tecnológicas para el cuidado de plantas y áreas verdes, promoviendo un estilo de vida más sostenible y acercando la tecnología al servicio del bienestar ambiental y de las comunidades.
-
-### 1.1.1. Descripción de la Startup
-Somos EcoTech, una startup universitaria conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), dedicada a desarrollar soluciones tecnológicas que promuevan la sostenibilidad y el cuidado responsable de los recursos naturales. En un contexto donde la agricultura urbana y el mantenimiento de áreas verdes enfrentan retos de eficiencia y gestiones, presentamos PlantaE, una plataforma inteligente basada en IoT que permite a los usuarios monitorear y optimizar el cuidado de sus plantas y cultivos urbanos.
-
-PlantaE surge ante la creciente necesidad de contar con herramientas accesibles y confiables que faciliten el riego eficiente y el cuidado de áreas verdes en hogares y viveros. La aplicación recopila datos en tiempo real sobre humedad, temperatura, luminosidad y calidad del aire mediante sensores instalados en macetas o terrenos de cultivo, brindando a los usuarios notificaciones oportunas y recomendaciones personalizadas para garantizar la salud de sus plantas. Ademas de, contribuir al uso responsable del agua, ofreciendo una plataforma que combina tecnología, sostenibilidad y facilidad de uso. Con PlantaE, buscamos acercar la innovación al bienestar ambiental y a la vida diaria de las personas, fomentando comunidades más conscientes y responsables con su entorno.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 <div align="center">
@@ -170,16 +174,16 @@ PlantaE surge ante la creciente necesidad de contar con herramientas accesibles 
 | **Código del Estudiante** |                                                                                     |
 | **Carrera**               |                                                                                     |
 | **Descripción**           |                                                                                     |
-| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
+| **Foto**                  |  <div align="center"> <img src="" alt="Elizabeth" width="200" height="200"> </div>  |
 
 ---
 
 | **Integrante**            | **Contreras Leon, Flor De María**                                                   |
 |---------------------------|-------------------------------------------------------------------------------------|
-| **Código del Estudiante** |  u202323243                                                                       |
-| **Carrera**               |  Ingenieria de Software                                                                                   |
-| **Descripción**           |  Mi nombre es Flor de María Contreras León y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida y dedicada a mi formación profesional.Me apasiona la programación y la investigación, áreas en las que busco seguir aprendiendo y desarrollando nuevas habilidades. Aunque me considero una persona callada, siempre estoy atenta a los detalles, lo que me permite trabajar de manera cuidadosa y eficiente en mis proyectos. Asimismo, valoro el trabajo en equipo y creo que un entorno colaborativo y respetuoso es clave para alcanzar los mejores resultados.                                                                                   |
-| **Foto**                  |  <img src="assets/profiles/Flor_logo.jpeg" alt="Flor" width="200" height="200">                                      |
+| **Código del Estudiante** |  u202323243                                                                         |
+| **Carrera**               |  Ingenieria de Software                                                             |
+| **Descripción**           |  Mi nombre es Flor de María Contreras León y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida y dedicada a mi formación profesional.Me apasiona la programación y la investigación, áreas en las que busco seguir aprendiendo y desarrollando nuevas habilidades. Aunque me considero una persona callada, siempre estoy atenta a los detalles, lo que me permite trabajar de manera cuidadosa y eficiente en mis proyectos. Asimismo, valoro el trabajo en equipo y creo que un entorno colaborativo y respetuoso es clave para alcanzar los mejores resultados. |
+| **Foto**                  | <div align="center"> <img src="assets/profiles/Flor_logo.jpeg" alt="Flor" width="200" height="200"> </div> |
 
 ---
 
@@ -188,7 +192,7 @@ PlantaE surge ante la creciente necesidad de contar con herramientas accesibles 
 | **Código del Estudiante** | u20241a352                                                                          |
 | **Carrera**               | Ingeniería de Software                                                              |
 | **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
-| **Foto**                  | <img src="assets/profiles/julio_logo.jpg" alt="Julio" width="200" height="200">    |
+| **Foto**                  | <div align="center"> <img src="assets/profiles/julio_logo.jpg" alt="Julio" width="200" height="200"> </div> |
 
 ---
 
@@ -196,8 +200,8 @@ PlantaE surge ante la creciente necesidad de contar con herramientas accesibles 
 |---------------------------|-------------------------------------------------------------------------------------|
 | **Código del Estudiante** | u202311082                                                                          |
 | **Carrera**               | Ingeniería de Software                                                              |
-| **Descripción**           | Mi nombre es Rodrigo Jesús Miraval Pomalaya y estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona adaptable y detallista, siempre en busca de aprender y mejorar en lo que hago. Tengo conocimientos en Python, JavaScript, HTML y CSS, además de un nivel intermedio en SQL Server y MySQL. Me gusta aplicar lo aprendido en proyectos académicos y trabajar en equipo, ya que compartir ideas no solo ayuda a obtener mejores resultados, sino también a ampliar mi visión en la carrera.   |
-| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
+| **Descripción**           | Mi nombre es Rodrigo Jesús Miraval Pomalaya y estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona adaptable y detallista, siempre en busca de aprender y mejorar en lo que hago. Tengo conocimientos en Python, JavaScript, HTML y CSS, además de un nivel intermedio en SQL Server y MySQL. Me gusta aplicar lo aprendido en proyectos académicos y trabajar en equipo, ya que compartir ideas no solo ayuda a obtener mejores resultados, sino también a ampliar mi visión en la carrera. |
+| **Foto**                  |  <div align="center"> <img src="" alt="Rodrigo" width="200" height="200"> </div>    |
 
 
 ---
@@ -207,7 +211,7 @@ PlantaE surge ante la creciente necesidad de contar con herramientas accesibles 
 | **Código del Estudiante** |                                                                                     |
 | **Carrera**               |                                                                                     |
 | **Descripción**           |                                                                                     |
-| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
+| **Foto**                  |  <div align="center"> <img src="" alt="Antonio" width="200" height="200"> </div>    |
 
 </div>
 
@@ -250,19 +254,9 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 - Creemos que si demostramos beneficios tangibles (ahorro de agua, reducción de pérdidas de plantas), los usuarios estarán dispuestos a pagar por la solución.  
 
 #### 1.2.2.4. Lean UX Canvas
-
-
-
-| **Sección** | **Contenido** |
-|-------------|---------------|
-| **Business Problem** | Los usuarios de áreas urbanas y viveros no cuentan con datos precisos y en tiempo real sobre las condiciones de sus cultivos (humedad, temperatura, luminosidad, calidad del aire), lo que ocasiona un riego ineficiente y un mayor riesgo de pérdida de plantas. Las personas suelen regar sus plantas de manera intuitiva, lo que genera desperdicio de agua. Los viveros y responsables de áreas verdes carecen de soluciones tecnológicas accesibles y fáciles de usar que permitan optimizar el manejo de cultivos urbanos. |
-| **Business Outcomes** | - Aumentar el número de usuarios (hogares y viveros) que gestionan sus plantas basados en datos de sensores IoT.<br>- Incrementar la adopción de recomendaciones y notificaciones personalizadas dentro de la plataforma.<br>- Lograr que la mayoría de usuarios puedan utilizar la plataforma sin requerir conocimientos técnicos avanzados.<br>- Validar la disposición de pago de los usuarios al percibir beneficios tangibles en el cuidado de sus cultivos. |
-| **Users and Customers** | **Primarios:**<br>- Personas que cuidan plantas en sus hogares.<br>- Viveros comerciales que buscan optimizar el cuidado de cultivos urbanos. |
-| **User Benefits** | **Personas (hogares):**<br>- Outcomes: Regar sus plantas con base en datos y recibir alertas útiles.<br>- Benefits: Menor esfuerzo en el cuidado de sus plantas, reducción de desperdicio de agua, plantas más saludables.<br><br>**Viveros comerciales:**<br>- Outcomes: Monitorear condiciones de cultivo en tiempo real y aplicar decisiones basadas en datos.<br>- Benefits: Mayor control de sus recursos, optimización de tiempo y costos, mejora en la productividad de cultivos. |
-| **Solution Ideas** | - Plataforma conectada a sensores IoT para medir condiciones de cultivo.<br>- Sistema de notificaciones y recomendaciones personalizadas para riego eficiente.<br>- Interfaz sencilla y accesible para todo tipo de usuario.<br>- Reportes de estado y mejoras de los cultivos. |
-| **Hypotheses** | - Creemos que al ofrecer una plataforma de monitoreo en tiempo real con sensores IoT, los usuarios urbanos y viveros podrán gestionar sus plantas de manera más eficiente.<br>- Creemos que al proporcionar recomendaciones personalizadas y notificaciones oportunas, los usuarios reducirán el desperdicio de agua y mejorarán la salud de sus cultivos.<br>- Creemos que al diseñar una interfaz sencilla y accesible, lograremos que tanto usuarios individuales como viveros adopten la aplicación sin necesidad de conocimientos técnicos avanzados.<br>- Creemos que si demostramos beneficios tangibles (ahorro de agua, reducción de pérdidas de plantas), los usuarios estarán dispuestos a pagar por la solución. |
-| **What's the most important thing we need to learn first?** | ¿Los usuarios (hogares y viveros) están dispuestos a utilizar una plataforma tecnológica basada en sensores IoT para gestionar sus cultivos de manera más eficiente? |
-| **What's the least amount of work we need to do to learn the next most important thing?** | **MVP:** Prototipo funcional con sensores IoT básicos conectados a una aplicación que muestre datos de humedad y temperatura, notificaciones iniciales y recomendaciones simples. Validar si los usuarios utilizan el sistema y siguen las recomendaciones. |
+<div align="center"> 
+  <img src="assets/resources/lean-ux-canvas.png" alt="Canvas" width="200" height="200"> 
+</div>
 
 ## 1.3. Segmentos objetivo
 ---
