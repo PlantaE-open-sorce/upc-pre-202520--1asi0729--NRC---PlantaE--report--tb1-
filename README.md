@@ -359,6 +359,61 @@ Para enfrentar a la competencia y posicionarse de manera sólida en el ecosistem
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+**Diseño de entrevistas - Segmento 1 :**
+
+1. ¿Dedicas un tiempo específico en la semana para cuidar tus plantas o lo haces de manera espontánea?
+
+2. ¿Qué dificultades enfrentas al cuidar tus plantas o áreas verdes?
+
+3. ¿Cómo organizas el riego y mantenimiento de tus plantas?
+
+4. ¿Has tenido problemas relacionados con el riego (por exceso, falta o uso de agua)?
+
+5. ¿Qué tanto influye el consumo de agua en tu decisión de cuidar más o menos plantas?
+
+6. ¿Alguna vez has perdido plantas por no darles el cuidado adecuado? ¿Cómo te sentiste?
+
+7. ¿Ha tenido problemas relacionados con el mantenimiento general de tus plantas (plagas, falta de tiempo, espacio)?
+
+8. ¿Usas actualmente alguna aplicación, sistema o herramienta para ayudarte en el cuidado de tus plantas?
+
+9. ¿Qué tan cómodo te sentirías usando sensores o aplicaciones para recibir alertas y recomendaciones sobre tus plantas?
+
+10. ¿Qué tan útil te resultaría una aplicación que te ayude a optimizar el riego y cuidado de tus plantas?
+
+11. ¿Qué funcionalidades te motivarían más a usar una aplicación como esta? (ejemplo: alertas de riego, consejos personalizados, ahorro de agua).
+
+12. Si tuvieras esta aplicación, ¿cómo crees que cambiaría tu experiencia actual con el cuidado de plantas en casa?
+
+13. ¿Hay algo más que te gustaría agregar sobre tu experiencia con las plantas y áreas verdes?
+
+
+**Diseño de entrevistas - Segmento 2 :**
+
+1. ¿Qué retos enfrenta en la gestión del riego y mantenimiento a gran escala?
+
+2. ¿Cómo manejan actualmente el control del consumo de agua?
+
+3. ¿Qué estrategias utilizan para garantizar que las plantas se mantengan en buen estado?
+
+4. ¿Han tenido pérdidas significativas de plantas por problemas de riego o mantenimiento?
+
+5. ¿Qué métodos utilizan para planificar y organizar las tareas de su equipo en el vivero?
+
+6. ¿Cómo gestionan el almacenamiento y uso de insumos (fertilizantes, sustratos, pesticidas)?
+
+7. ¿Qué tan importante es para su negocio poder reducir costos relacionados al consumo de agua y mantenimiento?
+
+8. ¿Utilizan actualmente algún software o sistema digital para gestionar el vivero? ¿Cuál?
+
+10. ¿Qué tipo de información o métricas consideran más útiles para tomar decisiones sobre la producción y venta de plantas?
+
+11. ¿De qué forma creen que una aplicación como PlantaE podría apoyar la eficiencia y sostenibilidad en su vivero?
+
+12. ¿Qué funcionalidades valoraría más en una herramienta digital pensada para viveros (ejemplo: gestión de riego por sectores, alertas de plagas, informes de consumo)?
+
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 
