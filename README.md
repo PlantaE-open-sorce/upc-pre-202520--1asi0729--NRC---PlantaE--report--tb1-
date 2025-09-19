@@ -424,6 +424,7 @@ Para enfrentar a la competencia y posicionarse de manera sólida en el ecosistem
 Hola, mi nombre es [Nombre del entrevistador] y formo parte del equipo que está desarrollando PlantaE, una iniciativa que busca mejorar el cuidado de plantas y áreas verdes con ayuda de la tecnología. Nuestra idea es apoyarnos en el Internet de las Cosas (IoT), es decir, en sensores y dispositivos que recopilan datos en tiempo real sobre tus plantas —por ejemplo, la humedad del suelo o la cantidad de agua utilizada— para que el riego y el mantenimiento sean más fáciles y eficientes.
 
 Con esto queremos crear una aplicación que te brinde alertas, consejos y herramientas prácticas para ahorrar agua, cuidar mejor de las plantas y simplificar el proceso, ya sea en casa o en un vivero.
+
 **Diseño de entrevistas - Segmento 1 :**
 
 **Presentacion del proyecto y inicio de la entrevista:**
@@ -1217,11 +1218,12 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+
 **Overview:**
 El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de la sostenibilidad urbana, transmitiendo cercanía, confianza y armonía con la naturaleza. La interfaz debe ser clara, ligera y fácil de procesar para todo tipo de usuarios, desde hogares hasta viveros, priorizando siempre la accesibilidad y la experiencia intuitiva.
 
 **Brand Name:**
-***"PlantaE" ***simboliza el vínculo entre las personas y el cuidado de la naturaleza en entornos urbanos. El nombre evoca vida, crecimiento y sostenibilidad, reforzando la idea de que cada acción, por pequeña que sea, contribuye al bienestar colectivo y a la conservación de las áreas verdes. Representa una comunidad comprometida con el equilibrio ecológico, la innovación y la colaboración.
+***PlantaE*** simboliza el vínculo entre las personas y el cuidado de la naturaleza en entornos urbanos. El nombre evoca vida, crecimiento y sostenibilidad, reforzando la idea de que cada acción, por pequeña que sea, contribuye al bienestar colectivo y a la conservación de las áreas verdes. Representa una comunidad comprometida con el equilibrio ecológico, la innovación y la colaboración.
 
 ### 4.1.1. General Style Guidelines
 
@@ -1255,7 +1257,10 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 - Notas o captions en Light para diferenciar información secundaria.
 
   
-![Web-FontSytiles](assets/resources/Sytile_Fonts.png)
+<p align="center">
+  <img src="assets/resources/Sytile_Fonts.png" alt="Web-FontStyles" width="500">
+</p>
+
 
 
 **Buttons:**
