@@ -1217,6 +1217,52 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+**Overview:**
+El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de la sostenibilidad urbana, transmitiendo cercanía, confianza y armonía con la naturaleza. La interfaz debe ser clara, ligera y fácil de procesar para todo tipo de usuarios, desde hogares hasta viveros, priorizando siempre la accesibilidad y la experiencia intuitiva.
+
+**Brand Name:**
+***"PlantaE" ***simboliza el vínculo entre las personas y el cuidado de la naturaleza en entornos urbanos. El nombre evoca vida, crecimiento y sostenibilidad, reforzando la idea de que cada acción, por pequeña que sea, contribuye al bienestar colectivo y a la conservación de las áreas verdes. Representa una comunidad comprometida con el equilibrio ecológico, la innovación y la colaboración.
+
+**¿Qué debe tener? :**
+
+- Colores naturales y suaves (verde, beige, marrón tierra, toques de verde claro).
+
+- Tipografía moderna, redondeada y amigable.
+
+- Diseño minimalista, intuitivo y con iconografía simple.
+
+- Uso de contrastes suaves que transmitan frescura y confianza.
+
+**¿Qué no debe tener? :**
+
+- Colores demasiado brillantes o estridentes (como rojos fuertes, fucsias o neones).
+
+- Sobrecarga de elementos gráficos que dificulten la navegación.
+
+- Tipografías recargadas o poco legibles.
+
+**Typography:** Open Sans como tipografía principal.
+
+
+- Títulos (H1 y H2) en estilo Bold para resaltar jerarquía.
+
+- Subtítulos y descripciones en Semi-bold.
+
+- Textos de párrafo en Regular para asegurar legibilidad.
+
+- Notas o captions en Light para diferenciar información secundaria.
+![Web-FontSytiles](assets/resources/Sytile_Fonts.png)
+
+**Buttons:**
+![Web-Buttons](assets/resources/Botones_Paleta_Font.png)
+
+**Paleta de Colores:**
+
+![Web-Palettacolores](assets/resources/Adobe_Fonts_color2.png)
+
+![Web-Palettacolores2](assets/resources/AdobeColor-Colores_Paleta.jpeg)
+
+
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 
