@@ -308,10 +308,10 @@ Es una aplicación móvil que utiliza inteligencia artificial para diagnosticar 
   </tr>
   <tr>
     <td colspan="2"> Productos </td>
-    <td> <div align="center"> PlantaE <br> <img src="assets/logos/PlantaE.png" alt="PlantaE"></div> </td>
-    <td> <div align="center"> AgroSmart <br> <img src="assets/logos/AgroSmart.png" alt="AgroSmart"></div> </td>
-    <td> <div align="center"> Netafim <br> <img src="assets/logos/Netafim.png" alt="Netafim"></div> </td>
-    <td> <div align="center"> Plantix <br> <img src="assets/logos/Plantix.png" alt="Plantix"></div> </td>
+    <td> <div align="center"> PlantaE <br> <img src="assets/logos/PlantaE.png" alt="PlantaE" width="100" height="100"></div> </td>
+    <td> <div align="center"> AgroSmart <br> <img src="assets/logos/AgroSmart.png" alt="AgroSmart" width="100" height="100"></div> </td>
+    <td> <div align="center"> Netafim <br> <img src="assets/logos/Netafim.png" alt="Netafim" width="100" height="100"></div> </td>
+    <td> <div align="center"> Plantix <br> <img src="assets/logos/Plantix.png" alt="Plantix" width="100" height="100"></div> </td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -508,7 +508,7 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 | **Location**     | Lima, Perú (San Borja) |
 | **Tier**         | Cuidadora de plantas domésticas |
 | **Archetype**    | Amante de las plantas |
-| **Image**        | <img src="assets/resources/user-image-user1.png" alt="Ana" width="200" height="200"> |
+| **Image**        | <div align="center"> <img src="assets/resources/user-image-user1.png" alt="Ana" width="200" height="200"> </div> |
 | **Quote**        | "Quiero una solución simple y confiable para que mis plantas estén siempre bien." |
 | **Motivations**  | Incentive: 80/100 · Fear: 60/100 · Achievement: 70/100 · Growth: 65/100 · Power: 30/100 · Social: 85/100 |
 | **Goals**        | Mantener sanas sus plantas de interior y jardín · Recibir alertas simples y claras sobre riego, luz y humedad · Compartir logros en redes sociales |
@@ -529,7 +529,7 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 | **Location**     | Lima, Perú (Ate) |
 | **Tier**         | Gestor de vivero/invernadero |
 | **Archetype**    | Administrador pragmático |
-| **Image**        | <img src="assets/resources/user-image-user2.png" alt="Carlos" width="200" height="200"> |
+| **Image**        | <div align="center"> <img src="assets/resources/user-image-user2.png" alt="Carlos" width="200" height="200"> </div> |
 | **Quote**        | "Necesito datos claros para tomar decisiones rápidas y efectivas." |
 | **Motivations**  | Incentive: 85/100 · Fear: 55/100 · Achievement: 90/100 · Growth: 80/100 · Power: 70/100 · Social: 60/100 |
 | **Goals**        | Optimizar consumo de agua y fertilizantes · Recibir reportes claros y priorizados para casos críticos · Tomar decisiones estratégicas con base en tendencias históricas |
@@ -541,16 +541,16 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 
 ### 2.3.2. User Task Matrix
 
-| **Tareas**                           | **Ana (Frecuencia)** | **Ana (Importancia)** | **Carlos (Frecuencia)** | **Carlos (Importancia)** |
-|--------------------------------------|-----------------------|------------------------|--------------------------|---------------------------|
-| Buscar solución para cuidado de plantas | Alta                  | Alta                   | Media                    | Media                     |
-| Instalar sensores                    | Media                 | Alta                   | Alta                     | Alta                      |
-| Configurar la app/dashboard          | Alta                  | Alta                   | Alta                     | Alta                      |
-| Monitorear condiciones de las plantas| Alta                  | Alta                   | Alta                     | Alta                      |
-| Recibir alertas de cuidado           | Alta                  | Alta                   | Alta                     | Alta                      |
-| Analizar reportes históricos         | Baja                  | Media                  | Alta                     | Alta                      |
-| Compartir logros o resultados        | Alta                  | Media                  | Media                    | Media                     |
-| Exportar reportes                    | Baja                  | Baja                   | Alta                     | Alta                      |
+| **Tareas**                              | **Ana (Frecuencia)** | **Ana (Importancia)** | **Carlos (Frecuencia)** | **Carlos (Importancia)** |
+|-----------------------------------------|----------------------|-----------------------|-------------------------|--------------------------|
+| Buscar solución para cuidado de plantas | Alta                 | Alta                  | Media                   | Media                    |
+| Instalar sensores                       | Media                | Alta                  | Alta                    | Alta                     |
+| Configurar la app/dashboard             | Alta                 | Alta                  | Alta                    | Alta                     |
+| Monitorear condiciones de las plantas   | Alta                 | Alta                  | Alta                    | Alta                     |
+| Recibir alertas de cuidado              | Alta                 | Alta                  | Alta                    | Alta                     |
+| Analizar reportes históricos            | Baja                 | Media                 | Alta                    | Alta                     |
+  | Compartir logros o resultados         | Alta                 | Media                 | Media                   | Media                    |
+| Exportar reportes                       | Baja                 | Baja                  | Alta                    | Alta                     |
 
 ---
 
@@ -558,7 +558,6 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 - **Ana** (usuaria doméstica) se enfoca en tareas simples y motivacionales como recibir recordatorios, cuidar sus plantas y compartir avances en redes sociales.  
 - **Carlos** (usuario institucional) prioriza el análisis de datos, la exportación de reportes y la optimización de recursos en su vivero.  
 - Ambos coinciden en la **alta importancia de un dashboard confiable y alertas claras**, lo que convierte estas funciones en elementos centrales del diseño de **PlantaE**.
-
 
 ### 2.3.3. User Journey Mapping
 - Segmento objetivo 1:
