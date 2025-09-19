@@ -29,7 +29,7 @@
 |       Apaza Bocanegra, Elizabeth Noelia     |            u20231c197                       |
 |       Contreras Leon, Flor De María         |            u202323243                       |
 |       Guillen Galindo, Julio Adolfo         |            u20241a352                       |
-|       Miraval Pomalaya, Rodrigo Jesus       |            u2023110821                      |
+|       Miraval Pomalaya, Rodrigo Jesus       |            u202311082                       |
 |       Navarro Chinga, Antonio Jhair         |            u202314101                       |
 
 </div>
