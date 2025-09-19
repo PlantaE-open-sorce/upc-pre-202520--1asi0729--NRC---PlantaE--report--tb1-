@@ -148,8 +148,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 |             <div align="center">Criterio específico</div>             |          <div align="center">Acciones Realizadas</div>            |          <div align="center">Conclusiones</div>            |
 |:---------------------------------------------------------------------:|-------------------------------------------------------------------|------------------------------------------------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | <li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** <br> </li><li>**Contreras Leon, Flor De María** <br> **TB1:** <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** <br> </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** <br> </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:** | <li>**TB1:** </li> |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | <li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** <br> </li><li>**Contreras Leon, Flor De María** <br> **TB1:** <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** <br> </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** <br> </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:** | <li>**TB1:** </li> |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | <ul><li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** <br> </li><li>**Contreras Leon, Flor De María** <br> **TB1:** <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** <br> </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** <br> </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:**</ul> | <ul><li>**TB1:** </li></ul> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | <ul><li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** <br> </li><li>**Contreras Leon, Flor De María** <br> **TB1:** <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** <br> </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** <br> </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:**</ul> | <ul><li>**TB1:** </li></ul> |
 
 <hr>
 
@@ -255,30 +255,25 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 
 #### 1.2.2.4. Lean UX Canvas
 <div align="center"> 
-  <img src="assets/resources/lean-ux-canvas.png" alt="Canvas" width="200" height="200"> 
+  <img src="assets/resources/lean-ux-canvas.png" alt="Canvas"> 
 </div>
 
 ## 1.3. Segmentos objetivo
----
 | Segmento Objetivo | Aspectos demográficos | Aspectos geográficos | Aspectos psicográficos |
 |-------------------|------------------------|-----------------------|-------------------------|
-| **Personas (hogares urbanos que cuidan plantas)** | - Sexo: Masculino y femenino.<br>- Edades: 25 – 55 años (adultos jóvenes y adultos interesados en la sostenibilidad y el cuidado del hogar). | - Nacionalidad: Peruana.<br>- Zona geográfica: Principalmente zonas urbanas y periurbanas con acceso a áreas verdes o pequeños jardines (ej. Lima Metropolitana y principales ciudades del Perú). | - Valoran la sostenibilidad y el cuidado responsable del medio ambiente.<br>- Interesados en tecnología accesible que facilite la vida cotidiana.<br>- Buscan practicidad y resultados visibles en el cuidado de sus plantas.<br>- Dispuestos a probar soluciones innovadoras si estas son fáciles de usar. |
-| **Viveros comerciales** | - Sexo: Masculino y femenino (administradores, encargados y trabajadores de viveros).<br>- Edades: 20 – 60 años (jóvenes adultos y adultos con experiencia en manejo de cultivos o gestión de negocios de plantas). | - Nacionalidad: Peruana.<br>- Zona geográfica: Áreas urbanas, periurbanas y rurales donde se concentran viveros, centros de producción y espacios agrícolas. | - Buscan optimizar recursos (agua, energía, tiempo) para aumentar la rentabilidad.<br>- Interesados en soluciones tecnológicas que mejoren la eficiencia operativa.<br>- Valoran herramientas que brinden datos confiables y prácticos para la toma de decisiones.<br>- Dispuestos a pagar por soluciones que generen beneficios tangibles en productividad y sostenibilidad. |
-
-
+| **Personas (hogares urbanos que cuidan plantas)** | <ul><li>Sexo: Masculino y femenino.<br> </li><li>Edades: 25 – 55 años (adultos jóvenes y adultos interesados en la sostenibilidad y el cuidado del hogar).</ul> | <ul><li>Nacionalidad: Peruana.<br> </li><li>Zona geográfica: Principalmente zonas urbanas y periurbanas con acceso a áreas verdes o pequeños jardines.</ul> | <ul><li>Valoran la sostenibilidad y el cuidado responsable del medio ambiente.<br> </li><li>Interesados en tecnología accesible que facilite la vida cotidiana.<br> </li><li>Buscan practicidad y resultados visibles en el cuidado de sus plantas.<br> </li><li>Dispuestos a probar soluciones innovadoras si estas son fáciles de usar.</ul> |
+| **Viveros comerciales** | <ul><li>Sexo: Masculino y femenino (administradores, encargados y trabajadores de viveros).<br> </li><li>Edades: 20 – 60 años (jóvenes adultos y adultos con experiencia en manejo de cultivos o gestión de negocios de plantas).</ul> | <ul><li>Nacionalidad: Peruana.<br> </li><li>Zona geográfica: Áreas urbanas, periurbanas y rurales donde se concentran viveros, centros de producción y espacios agrícolas.</ul> | <ul><li>Buscan optimizar recursos (agua, energía, tiempo) para aumentar la rentabilidad.<br> </li><li>Interesados en soluciones tecnológicas que mejoren la eficiencia operativa.<br> </li><li>Valoran herramientas que brinden datos confiables y prácticos para la toma de decisiones.<br> </li><li>Dispuestos a pagar por soluciones que generen beneficios tangibles en productividad y sostenibilidad.</ul> |
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
-
 En esta sección, se presenta un análisis de los principales competidores de PlantaE, centrado en aquellos que operan con modelos de negocio digitales similares o que, aunque no sean idénticos, ofrecen productos o servicios que se superponen parcialmente con nuestra propuesta.Evaluamos tanto competidores directos, que ofrecen plataformas basadas en IoT para monitoreo de cultivos y áreas verdes, como competidores indirectos, que brindan soluciones de riego automatizado o aplicaciones de agricultura urbana más generales.
 
 Este análisis nos permitirá comprender mejor el entorno competitivo y cómo podemos diferenciarnos en el ecosistema de soluciones de agricultura urbana sostenible.
 
 1. ### AgroSmart : 
 Es una de las startups líderes en soluciones de agricultura digital. Su plataforma combina sensores IoT, imágenes satelitales e inteligencia artificial para optimizar el manejo de grandes cultivos.
-
 - **Fortalezas:** monitoreo IoT en tiempo real, predicciones climáticas y optimización avanzada del riego.
-
+  
 - **Debilidades:** está orientada a la agricultura a gran escala y requiere alta inversión, lo que limita su accesibilidad para viveros urbanos y hogares.
 
 2. ### Netafim:
@@ -288,68 +283,132 @@ Es una empresa pionera en riego por goteo inteligente, con sistemas que reducen 
 
 - **Debilidades:** alto costo de implementación y foco en agricultores medianos y grandes, con baja personalización para usuarios urbanos.
 
-
 3. ### Plantix
-
 Es una aplicación móvil que utiliza inteligencia artificial para diagnosticar plagas y enfermedades en cultivos mediante fotos.
 
 - **Fortalezas:** accesibilidad desde dispositivos móviles, comunidad activa de usuarios y recomendaciones prácticas para el cuidado de plantas.
 
 - **Debilidades:** su alcance está limitado al diagnóstico de problemas y no ofrece un sistema de monitoreo IoT ni gestión hídrica.
 
-
 ### 2.1.1. Análisis competitivo
-
-**Pregunta de análisis:**  
-¿Que busca comprender el analisis de PlantaE frente a competidores que ofrecen soluciones de agricultura digital e IoT, considerando factores de accesibilidad, mercado objetivo y sostenibilidad?
-
-Este análisis busca comprender el posicionamiento de PlantaE en comparación con otras soluciones digitales e IoT para la gestión de cultivos y áreas verdes, identificando oportunidades de mejora y diferenciación frente a las necesidades de nuestros segmentos objetivos: hogares urbanos interesados en el cuidado sostenible de plantas y viveros comerciales que buscan optimizar el uso de recursos y mejorar la salud de sus cultivos.
-
-| Aspecto / Startup     |  PlantaE | AgroSmart | Netafim | Plantix |
-|------------------------|------------|-----------|---------|---------|
-| **Perfil / Overview** | Plataforma accesible de monitoreo IoT en tiempo real para hogares y viveros comerciales. | Startup de agricultura digital con sensores IoT, IA y datos satelitales. | Empresa líder en riego inteligente a nivel global. | App móvil que diagnostica plagas y enfermedades con IA. |
-| **Ventaja competitiva** | Accesible, simple y adaptable a hogares y viveros comerciales. | Alta tecnología para agricultura a gran escala. | Experiencia consolidada y eficiencia hídrica. | Uso de IA accesible desde móvil y comunidad activa. |
-| **Mercado objetivo** | Hogares urbanos y viveros comerciales pequeños/medianos. | Agricultores industriales y medianos. | Agricultores medianos y grandes. | Agricultores y aficionados urbanos. |
-| **Estrategias de marketing** | Educación digital sobre sostenibilidad, alianzas con viveros locales. | Marketing B2B, posicionamiento tecnológico. | Branding global, casos de éxito y sostenibilidad hídrica. | Estrategia digital masiva vía Google Play/App Store. |
-| **Productos & Servicios** | Sensores IoT, web, recomendaciones personalizadas. | Sensores IoT, pronósticos climáticos, gestión avanzada. | Sistemas de riego por goteo inteligentes, software de gestión. | Diagnóstico de plagas y comunidad de soporte. |
-| **Precios & Costos** | Accesible, modelo freemium o suscripción baja. | Alto costo, licencias SaaS premium. | Alta inversión inicial y mantenimiento. | Gratis con servicios premium. |
-| **Canales de distribución** | Web (Probable distribucion con equipos adquiridos)| Web y App. | Equipos físicos + plataforma digital. | App móvil. 
-
-
-### SWOT Analysis
-
-| Startup     | Fortalezas                                                                 | Debilidades                                                                | Oportunidades                                                      | Amenazas                                                                 |
-|-------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------|
-|  **PlantaE**   | Accesibilidad, simplicidad de uso, enfoque en sostenibilidad urbana.      | Escala inicial limitada, baja madurez tecnológica frente a competidores.    | Creciente demanda de soluciones sostenibles, apoyo a viveros urbanos. | Entrada de grandes competidores al segmento urbano, barreras de adopción tecnológica. |
-| **AgroSmart** | Tecnología avanzada, IA y datos satelitales.                              | Costos elevados, poco enfoque en usuarios pequeños.                         | Expansión en mercados emergentes.                                   | Saturación de mercado y alta inversión necesaria para usuarios pequeños. |
-| **Netafim**   | Experiencia consolidada, reducción comprobada de consumo de agua.         | Alto costo, poca personalización para usuarios urbanos.                     | Creciente necesidad de eficiencia hídrica.                         | Nuevas startups más ágiles y accesibles.                                 |
-| **Plantix**   | Uso de IA en diagnóstico, comunidad digital activa.                       | No ofrece gestión hídrica ni monitoreo IoT.                                | Integración con soluciones de riego y monitoreo urbano.            | Dependencia de la precisión de IA y limitación del modelo freemium.      |
-
+<table> 
+  <tr>
+    <th colspan="7"> Competitive Analysis Landscape </th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar acabo este análisis? </td>
+    <td colspan="5"> ¿Que busca comprender el analisis de PlantaE frente a competidores que ofrecen soluciones de agricultura digital e IoT, considerando factores de accesibilidad, mercado objetivo y sostenibilidad? </td>
+  </tr>
+  <tr>
+    <td colspan="5"> Este análisis busca comprender el posicionamiento de PlantaE en comparación con otras soluciones digitales e IoT para la gestión de cultivos y áreas verdes, identificando oportunidades de mejora y diferenciación frente a las necesidades de nuestros segmentos objetivos: hogares urbanos interesados en el cuidado sostenible de plantas y viveros comerciales que buscan optimizar el uso de recursos y mejorar la salud de sus cultivos. </td>
+  </tr>
+  <tr>
+    <td colspan="2"> Productos </td>
+    <td> <div align="center"> PlantaE <br> <img src="assets/logos/PlantaE.png" alt="PlantaE"></div> </td>
+    <td> <div align="center"> AgroSmart <br> <img src="assets/logos/AgroSmart.png" alt="AgroSmart"></div> </td>
+    <td> <div align="center"> Netafim <br> <img src="assets/logos/Netafim.png" alt="Netafim"></div> </td>
+    <td> <div align="center"> Plantix <br> <img src="assets/logos/Plantix.png" alt="Plantix"></div> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td> Plataforma accesible de monitoreo IoT en tiempo real para hogares y viveros comerciales. </td>
+    <td> Startup de agricultura digital con sensores IoT, IA y datos satelitales. </td>
+    <td> Empresa líder en riego inteligente a nivel global. </td>
+    <td> App móvil que diagnostica plagas y enfermedades con IA. </td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td> Accesible, simple y adaptable a hogares y viveros comerciales. </td>
+    <td> Alta tecnología para agricultura a gran escala. </td>
+    <td> Experiencia consolidada y eficiencia hídrica. </td>
+    <td> Uso de IA accesible desde móvil y comunidad activa. </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td> Mercado Objetivo </td>
+    <td> Hogares urbanos y viveros comerciales pequeños/medianos. </td>
+    <td> Agricultores industriales y medianos. </td>
+    <td> Agricultores medianos y grandes. </td>
+    <td> Agricultores y aficionados urbanos </td>
+  </tr>
+  <tr>
+    <td> Estrategias de Marketing </td>
+    <td> Educación digital sobre sostenibilidad, alianzas con viveros locales. </td>
+    <td> Marketing B2B, posicionamiento tecnológico. </td>
+    <td> Branding global, casos de éxito y sostenibilidad hídrica. </td>
+    <td> Estrategia digital masiva vía Google Play/App Store. </td>
+  </tr> 
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td> Productos & Servicios </td>
+    <td> Sensores IoT, web, recomendaciones personalizadas. </td>
+    <td> Sensores IoT, pronósticos climáticos, gestión avanzada. </td>
+    <td> Sistemas de riego por goteo inteligentes, software de gestión. </td>
+    <td> Diagnóstico de plagas y comunidad de soporte. </td>
+  </tr>
+  <tr>
+    <td> Precios & Costos </td>
+    <td> Accesible, modelo freemium o suscripción baja. </td>
+    <td> Alto costo, licencias SaaS premium. </td>
+    <td> Alta inversión inicial y mantenimiento. </td>
+    <td> Gratis con servicios premium. </td>
+  </tr>
+  <tr> 
+    <td>Canales de distribución (Web y/o Móvil)</td>
+    <td> Aplicación Web. </td>
+    <td> Aplicación Web y App móvil. </td>
+    <td> Equipos físicos más plataforma digital. </td>
+    <td> App móvil. </td>
+  </tr>  
+  <tr>
+    <td rowspan="4"> Análisis SWOT </td>
+    <td> Fortalezas </td>
+    <td> Accesibilidad, simplicidad de uso, enfoque en sostenibilidad urbana. </td>
+    <td> Tecnología avanzada, IA y datos satelitales. </td>
+    <td> Experiencia consolidada, reducción comprobada de consumo de agua. </td>
+    <td> Uso de IA en diagnóstico, comunidad digital activa. </td>
+  </tr>
+  <tr>
+    <td> Debilidades </td>
+    <td> Escala inicial limitada, baja madurez tecnológica frente a competidores. </td>
+    <td> Costos elevados, poco enfoque en usuarios pequeños. </td>
+    <td> Alto costo, poca personalización para usuarios urbanos. </td>
+    <td> No ofrece gestión hídrica ni monitoreo IoT. </td>
+  </tr>
+  <tr>
+    <td> Oportunidades </td>
+    <td> Creciente demanda de soluciones sostenibles, apoyo a viveros urbanos. </td>
+    <td> Expansión en mercados emergentes. </td>
+    <td> Creciente necesidad de eficiencia hídrica. </td>
+    <td> Integración con soluciones de riego y monitoreo urbano. </td>
+  </tr>
+  <tr>
+    <td> Amenazas </td>
+    <td> Entrada de grandes competidores al segmento urbano, barreras de adopción tecnológica. </td>
+    <td> Saturación de mercado y alta inversión necesaria para usuarios pequeños. </td>
+    <td> Nuevas startups más ágiles y accesibles. </td>
+    <td> Dependencia de la precisión de IA y limitación del modelo freemium. </td>
+  </tr>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-
 Para enfrentar a la competencia y posicionarse de manera sólida en el ecosistema de soluciones sostenibles, **PlantaE implementará estrategias enfocadas en sus principales ventajas competitivas** y en la explotación de oportunidades poco atendidas por otras iniciativas. Entre las principales tácticas preliminares destacan:
 
 **Estrategia de diferenciación sostenible :**
-
 - La plataforma digital de PlantaE facilitará la conexión entre ciudadanos, municipalidades, ONGs y empresas, mediante herramientas enfocadas en la regeneración de áreas verdes y el monitoreo comunitario. Se contempla, por ejemplo, el desarrollo progresivo de funcionalidades como reportes de impacto ambiental en tiempo real y mapas interactivos de proyectos verdes, diferenciándonos de competidores que se centran únicamente en el sector agrícola o de riego.
 
 **Alianzas estratégicas multiactor:**
-
 - PlantaE priorizará la construcción de convenios con municipalidades, viveros urbanos y organizaciones comunitarias. Estas alianzas permitirán fortalecer la confianza en la plataforma, garantizar acceso a insumos sostenibles y generar proyectos colaborativos que refuercen el sentido de pertenencia ciudadana.
 
 **Campañas digitales con enfoque social y ambiental:**
-
 - Las campañas en redes sociales serán clave para sensibilizar sobre la importancia del cuidado de áreas verdes urbanas. Se priorizarán contenidos educativos, testimonios de voluntarios y casos de éxito en la transformación de espacios públicos, reforzando así la conexión emocional entre los usuarios y su entorno.
 
 **Captación y fidelización de comunidades:**
-
 - La plataforma incluirá herramientas que permitan a los ciudadanos participar en proyectos de reforestación, limpieza y mantenimiento, mientras que ONGs y empresas podrán gestionar sus iniciativas desde un panel especializado. Se prevé también la implementación de incentivos no monetarios, como reconocimientos digitales o certificaciones de impacto ambiental.
 
 **Gestión de riesgos y validación de proyectos:**
-
 - Frente a la posible desconfianza en nuevas plataformas digitales o la falta de continuidad en proyectos comunitarios, PlantaE aplicará un modelo de validación y seguimiento transparente. Cada proyecto contará con métricas claras de impacto y espacios de retroalimentación, lo que fortalecerá la confianza y garantizará la sostenibilidad a largo plazo.
-
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
@@ -358,7 +417,7 @@ Hola, mi nombre es [Nombre del entrevistador] y formo parte del equipo que está
 Con esto queremos crear una aplicación que te brinde alertas, consejos y herramientas prácticas para ahorrar agua, cuidar mejor de las plantas y simplificar el proceso, ya sea en casa o en un vivero.
 **Diseño de entrevistas - Segmento 1 :**
 
-**Presentacion del proyecto y inicio de la entrevista:******
+**Presentacion del proyecto y inicio de la entrevista:**
 1. Para empezar, ¿puedes contarnos tu nombre y qué relación tienes con el cuidado de plantas en tu hogar?
 
 2. ¿Cómo describirías tu experiencia con las plantas: las consideras un pasatiempo, una responsabilidad o parte de tu estilo de vida?
@@ -367,9 +426,7 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 
 4. ¿Desde cuándo empezaste a cuidar plantas en casa y qué te motivó a hacerlo?
 
-
 ------------
-
 
 1. ¿Dedicas un tiempo específico en la semana para cuidar tus plantas o lo haces de manera espontánea?
 
@@ -397,19 +454,15 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 
 13. ¿Hay algo más que te gustaría agregar sobre tu experiencia con las plantas y áreas verdes?
 
-
 **Diseño de entrevistas - Segmento 2 :**
 
-**Presentacion del proyecto y inicio de la entrevista:******
-
+**Presentacion del proyecto y inicio de la entrevista:****
 
 1. Para comenzar, ¿puedes presentarte y contarnos tu rol dentro del vivero o negocio de plantas?
 
-3. ¿Cuál es la historia detrás del vivero? (¿Cómo empezó y qué los motivó a dedicarse a este rubro?)
+2. ¿Cuál es la historia detrás del vivero? (¿Cómo empezó y qué los motivó a dedicarse a este rubro?)
 
-5. ¿Qué tanto valoras la tecnología o la innovación en el manejo de riego y mantenimiento en tu negocio?
-
-
+3. ¿Qué tanto valoras la tecnología o la innovación en el manejo de riego y mantenimiento en tu negocio?
 
 ------------
 
@@ -429,19 +482,17 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 
 8. ¿Utilizan actualmente algún software o sistema digital para gestionar el vivero? ¿Cuál?
 
-10. ¿Qué tipo de información o métricas consideran más útiles para tomar decisiones sobre la producción y venta?
+9. ¿Qué tipo de información o métricas consideran más útiles para tomar decisiones sobre la producción y venta?
 
-11. ¿De qué forma creen que una aplicación como PlantaE podría apoyar la eficiencia y sostenibilidad en su vivero?
+10. ¿De qué forma creen que una aplicación como PlantaE podría apoyar la eficiencia y sostenibilidad en su vivero?
 
-12. ¿Qué funcionalidades valoraría más en una herramienta digital pensada para viveros (ejemplo: gestión de riego por sectores, alertas de plagas, informes de consumo)?
-
+11. ¿Qué funcionalidades valoraría más en una herramienta digital pensada para viveros (ejemplo: gestión de riego por sectores, alertas de plagas, informes de consumo)?
 
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-
 - User Persona – Usuario Doméstico
 
 | **Attributes**   | **Values** |
@@ -484,27 +535,22 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 | **Technology**   | IT & Internet: 70/100 · Software: 80/100 · Mobile Apps: 60/100 · Social Networks: 50/100 |
 | **Brands**       | LinkedIn · Excel · Google Workspace |
 
-
 ### 2.3.2. User Task Matrix
-
-| **Tareas**                           | **Ana (Frecuencia)** | **Ana (Importancia)** | **Carlos (Frecuencia)** | **Carlos (Importancia)** |
-|--------------------------------------|-----------------------|------------------------|--------------------------|---------------------------|
-| Buscar solución para cuidado de plantas | Alta                  | Alta                   | Media                    | Media                     |
-| Instalar sensores                    | Media                 | Alta                   | Alta                     | Alta                      |
-| Configurar la app/dashboard          | Alta                  | Alta                   | Alta                     | Alta                      |
-| Monitorear condiciones de las plantas| Alta                  | Alta                   | Alta                     | Alta                      |
-| Recibir alertas de cuidado           | Alta                  | Alta                   | Alta                     | Alta                      |
-| Analizar reportes históricos         | Baja                  | Media                  | Alta                     | Alta                      |
-| Compartir logros o resultados        | Alta                  | Media                  | Media                    | Media                     |
-| Exportar reportes                    | Baja                  | Baja                   | Alta                     | Alta                      |
-
----
+| **Tareas**                              | **Ana (Frecuencia)**  | **Ana (Importancia)** | **Carlos (Frecuencia)** | **Carlos (Importancia)** |
+|-----------------------------------------|-----------------------|-----------------------|-------------------------|--------------------------|
+| Buscar solución para cuidado de plantas | Alta                  | Alta                  | Media                   | Media                    |
+| Instalar sensores                       | Media                 | Alta                  | Alta                    | Alta                     |
+| Configurar la app/dashboard             | Alta                  | Alta                  | Alta                    | Alta                     |
+| Monitorear condiciones de las plantas   | Alta                  | Alta                  | Alta                    | Alta                     |
+| Recibir alertas de cuidado              | Alta                  | Alta                  | Alta                    | Alta                     |
+| Analizar reportes históricos            | Baja                  | Media                 | Alta                    | Alta                     |
+| Compartir logros o resultados           | Alta                  | Media                 | Media                   | Media                    |
+| Exportar reportes                       | Baja                  | Baja                  | Alta                    | Alta                     |
 
 ### Conclusiones
 - **Ana** (usuaria doméstica) se enfoca en tareas simples y motivacionales como recibir recordatorios, cuidar sus plantas y compartir avances en redes sociales.  
 - **Carlos** (usuario institucional) prioriza el análisis de datos, la exportación de reportes y la optimización de recursos en su vivero.  
 - Ambos coinciden en la **alta importancia de un dashboard confiable y alertas claras**, lo que convierte estas funciones en elementos centrales del diseño de **PlantaE**.
-
 
 ### 2.3.3. User Journey Mapping
 - Segmento objetivo 1:
@@ -529,6 +575,9 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 </div>
 
 ## 2.4. Big Picture Event Storming
+<div align="center">
+ <img src="assets/resources/empathy-mapping-user2.png">
+</div>
 
 ## 2.5. Ubiquitous Language
 | **Término (Inglés)**         | **Término (Español)**       | **Descripción**                                                                                              |
@@ -560,7 +609,6 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 La landing page de PlantaE se organiza bajo un sistema jerárquico y progresivo que busca guiar al usuario desde la propuesta de valor hasta la acción final. Las secciones se estructuran en bloques diferenciados y ordenados para asegurar claridad y fluidez en la navegación:
-
 - Header: incluye el logotipo de PlantaE y la barra de navegación principal.
 
 - Hero Section: propuesta de valor clara con un eslogan, llamada a la acción y una imagen representativa de la app.
