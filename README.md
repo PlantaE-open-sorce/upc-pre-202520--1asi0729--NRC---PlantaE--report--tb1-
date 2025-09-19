@@ -1253,17 +1253,28 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 - Textos de párrafo en Regular para asegurar legibilidad.
 
 - Notas o captions en Light para diferenciar información secundaria.
+
+  
 ![Web-FontSytiles](assets/resources/Sytile_Fonts.png)
 
+
 **Buttons:**
+
 ![Web-Buttons](assets/resources/Botones_Paleta_Font.png)
+
 
 **Paleta de Colores:**
 
 ![Web-Palettacolores](assets/resources/Adobe_Fonts_color2.png)
 
-![Web-Palettacolores2](assets/resources/AdobeColor-Colores_Paleta.jpeg)
+![Web-Palettacolores2](assets/resources/PaletaColoresWeb.jpg)
+
 ### 4.1.2. Web Style Guidelines
+***PlantaE*** se compromete a ofrecer una interfaz digital que no solo sea visualmente atractiva, sino también funcional y adaptable a distintos dispositivos. La prioridad está en la usabilidad, la accesibilidad y la coherencia visual, garantizando que cada usuario pueda interactuar con la aplicación de manera intuitiva y sin barreras. Estos lineamientos buscan asegurar una experiencia unificada, fresca y eficiente, en armonía con los valores de sostenibilidad y conexión con la naturaleza que inspiran al proyecto.
+
+![Web-Style-Guidelines](assets/resources/Web_Sytile_ModeloFonts.png)
+
+![Web-Style-Guidelines2](assets/resources/Wen_Sytile_Guidneles.png)
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
