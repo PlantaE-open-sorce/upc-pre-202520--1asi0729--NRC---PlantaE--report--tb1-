@@ -420,6 +420,7 @@ Para enfrentar a la competencia y posicionarse de manera sólida en el ecosistem
 - Frente a la posible desconfianza en nuevas plataformas digitales o la falta de continuidad en proyectos comunitarios, PlantaE aplicará un modelo de validación y seguimiento transparente. Cada proyecto contará con métricas claras de impacto y espacios de retroalimentación, lo que fortalecerá la confianza y garantizará la sostenibilidad a largo plazo.
 
 ## 2.2. Entrevistas
+
 ### 2.2.1. Diseño de entrevistas
 Hola, mi nombre es [Nombre del entrevistador] y formo parte del equipo que está desarrollando PlantaE, una iniciativa que busca mejorar el cuidado de plantas y áreas verdes con ayuda de la tecnología. Nuestra idea es apoyarnos en el Internet de las Cosas (IoT), es decir, en sensores y dispositivos que recopilan datos en tiempo real sobre tus plantas —por ejemplo, la humedad del suelo o la cantidad de agua utilizada— para que el riego y el mantenimiento sean más fáciles y eficientes.
 
@@ -428,15 +429,15 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 **Diseño de entrevistas - Segmento 1 :**
 
 **Presentacion del proyecto y inicio de la entrevista:**
-1. Para empezar, ¿puedes contarnos tu nombre y qué relación tienes con el cuidado de plantas en tu hogar?
+- Para empezar, ¿puedes contarnos tu nombre y qué relación tienes con el cuidado de plantas en tu hogar?
 
-2. ¿Cómo describirías tu experiencia con las plantas: las consideras un pasatiempo, una responsabilidad o parte de tu estilo de vida?
+- ¿Cómo describirías tu experiencia con las plantas: las consideras un pasatiempo, una responsabilidad o parte de tu estilo de vida?
 
-3. ¿Qué lugar ocupan las plantas en tu día a día (ejemplo: decoración, conexión con la naturaleza, bienestar personal)?
+- ¿Qué lugar ocupan las plantas en tu día a día (ejemplo: decoración, conexión con la naturaleza, bienestar personal)?
 
-4. ¿Desde cuándo empezaste a cuidar plantas en casa y qué te motivó a hacerlo?
+- ¿Desde cuándo empezaste a cuidar plantas en casa y qué te motivó a hacerlo?
 
-------------
+**Preguntas:**
 
 1. ¿Dedicas un tiempo específico en la semana para cuidar tus plantas o lo haces de manera espontánea?
 
@@ -468,13 +469,13 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 
 **Presentacion del proyecto y inicio de la entrevista:**
 
-1. Para comenzar, ¿puedes presentarte y contarnos tu rol dentro del vivero o negocio de plantas?
+- Para comenzar, ¿puedes presentarte y contarnos tu rol dentro del vivero o negocio de plantas?
 
-2. ¿Cuál es la historia detrás del vivero? (¿Cómo empezó y qué los motivó a dedicarse a este rubro?)
+- ¿Cuál es la historia detrás del vivero? (¿Cómo empezó y qué los motivó a dedicarse a este rubro?)
 
-3. ¿Qué tanto valoras la tecnología o la innovación en el manejo de riego y mantenimiento en tu negocio?
+- ¿Qué tanto valoras la tecnología o la innovación en el manejo de riego y mantenimiento en tu negocio?
 
-------------
+**Preguntas:**
 
 1. ¿Qué retos enfrenta en la gestión del riego y mantenimiento a gran escala?
 
@@ -1286,6 +1287,9 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 ![Web-Style-Guidelines2](assets/resources/Wen_Sytile_Guidneles.png)
 
 ## 4.2. Information Architecture
+
+La arquitectura de información (IA) en **PlantaE **busca reducir la carga cognitiva de los usuarios, facilitando la navegación, el acceso a funcionalidades clave y guiándolos en su journey de cuidado y gestión de plantas y áreas verdes. Se articula en cinco pilares.
+
 ### 4.2.1. Organization Systems
 La landing page de PlantaE se organiza bajo un sistema jerárquico y progresivo que busca guiar al usuario desde la propuesta de valor hasta la acción final. Las secciones se estructuran en bloques diferenciados y ordenados para asegurar claridad y fluidez en la navegación:
 
