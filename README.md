@@ -1223,6 +1223,8 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 **Brand Name:**
 ***"PlantaE" ***simboliza el vínculo entre las personas y el cuidado de la naturaleza en entornos urbanos. El nombre evoca vida, crecimiento y sostenibilidad, reforzando la idea de que cada acción, por pequeña que sea, contribuye al bienestar colectivo y a la conservación de las áreas verdes. Representa una comunidad comprometida con el equilibrio ecológico, la innovación y la colaboración.
 
+### 4.1.1. General Style Guidelines
+
 **¿Qué debe tener? :**
 
 - Colores naturales y suaves (verde, beige, marrón tierra, toques de verde claro).
@@ -1261,9 +1263,6 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 ![Web-Palettacolores](assets/resources/Adobe_Fonts_color2.png)
 
 ![Web-Palettacolores2](assets/resources/AdobeColor-Colores_Paleta.jpeg)
-
-
-### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
