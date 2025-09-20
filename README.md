@@ -508,10 +508,7 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 - Edad:20 años
 - Direccion: Lima, Av Peru San Martin de Porres.
 
-| <p align="center">
-  <img src="assets/resources/Alessandro-Entrevista1-Segmento1.jpg" alt="Entrevista Alessandro Segmento 1" width="50%">
-</p>
- |
+| <p align="center"> <img src="assets/resources/Alessandro-Entrevista1-Segmento1.jpg" alt="Entrevista Alessandro Segmento 1" width="50%"></p> |
 |-------------------------------------------------------------------------------------------------------------------|
 |**Link De la Entrevista:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EUzFCY1QhetPtf3Bl_w7scMB4gbDOhsHCB9AJPYGOvNHQQ?e=fS5yBO |
 |Duracion:**00:05:57**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:10**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:54**|
