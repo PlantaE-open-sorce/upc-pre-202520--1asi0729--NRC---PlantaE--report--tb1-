@@ -290,7 +290,6 @@ Es una empresa pionera en riego por goteo inteligente, con sistemas que reducen 
 
 - **Debilidades:** alto costo de implementación y foco en agricultores medianos y grandes, con baja personalización para usuarios urbanos.
 
-
 3. ### Plantix
 
 Es una aplicación móvil que utiliza inteligencia artificial para diagnosticar plagas y enfermedades en cultivos mediante fotos.
@@ -589,6 +588,12 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 </div>
 
 ## 2.4. Big Picture Event Storming
+<div align="center"> 
+  <img src="assets/resources/big-picture-event-storming-Settings.jpg" alt="Settings" width="600"> 
+  <img src="assets/resources/big-picture-event-storming-IAM.jpg" alt="IAM" width="600"> 
+  <img src="assets/resources/big-picture-event-storming-Task.jpg" alt="Task" width="600"> 
+  <img src="assets/resources/big-picture-event-storming-Notifications.jpg" alt="Notifications" width="600"> 
+</div>
 
 ## 2.5. Ubiquitous Language
 | **Término (Inglés)**         | **Término (Español)**       | **Descripción**                                                                                              |
