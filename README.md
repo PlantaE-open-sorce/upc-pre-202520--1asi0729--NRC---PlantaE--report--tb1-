@@ -176,10 +176,10 @@ Ser una referencia en soluciones tecnológicas para el cuidado de plantas y áre
 
 | **Integrante**            | **Apaza Bocanegra, Elizabeth Noelia**                                               |
 |---------------------------|-------------------------------------------------------------------------------------|
-| **Código del Estudiante** |                                                                                     |
-| **Carrera**               |                                                                                     |
-| **Descripción**           |                                                                                     |
-| **Foto**                  |  <div align="center"> <img src="" alt="Elizabeth" width="150" height="150"> </div>  |
+| **Código del Estudiante** | u20231c197                                                                                     |
+| **Carrera**               | Ingeniería de Sorftware                                                                                    |
+| **Descripción**           | Tengo 19 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal.                                                                                    |
+| **Foto**                  | <div align="center"> <img src="assets/profiles/Elizabeth_logo.png" alt="Elizabeth" width="150" height="150"> </div>  |
 
 ---
 
