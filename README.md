@@ -167,10 +167,10 @@ PlantaE surge ante la creciente necesidad de contar con herramientas accesibles 
 
 | **Integrante**            | **Apaza Bocanegra, Elizabeth Noelia**                                               |
 |---------------------------|-------------------------------------------------------------------------------------|
-| **Código del Estudiante** |                                                                                     |
-| **Carrera**               |                                                                                     |
-| **Descripción**           |                                                                                     |
-| **Foto**                  |  <img src="" alt="" width="200" height="200">                                       |
+| **Código del Estudiante** | u20231c197                                                                                |
+| **Carrera**               | Ingeniería de Software                                                                             |
+| **Descripción**           | Tengo 19 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal. |
+| **Foto**                  |  <img src="ssets/profiles/Elizabeth_logo.jpeg" alt="Elizabeth" width="200" height="200">                                       |
 
 ---
 
@@ -192,7 +192,7 @@ PlantaE surge ante la creciente necesidad de contar con herramientas accesibles 
 
 ---
 
-| **Integrante**            | **Miraval Pomalaya, Rodrigo Jesus**                                                 |
+| **Integrante**            | **Miraval Pomalaya, Rodrigo Jesus**                                                 |c
 |---------------------------|-------------------------------------------------------------------------------------|
 | **Código del Estudiante** |                                                                                     |
 | **Carrera**               |                                                                                     |
